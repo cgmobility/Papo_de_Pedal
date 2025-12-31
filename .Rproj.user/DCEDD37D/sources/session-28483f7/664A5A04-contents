@@ -1,0 +1,16 @@
+.btn-padrao{
+  background: #58B3A6;
+  border-radius: 5px;
+  min-height: 30px;
+  border-color: transparent;
+  padding-left: 10px;
+  padding-right: 10px;
+  color:white;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: Montserrat;
+}
+
+.btn-padrao:hover{
+  cursor: pointer;
+}

@@ -1,0 +1,15 @@
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <title>Papo de Pedal root</title>
+  
+</head>
+
+<body>
+  <a id="topage" href="home/index.html"> </a>
+  <script type="text/javascript" charset="utf-8">
+    setTimeout(function() {
+      document.getElementById('topage').click()
+    }, 1000);
+  </script>
+</body>
