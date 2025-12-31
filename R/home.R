@@ -17,7 +17,8 @@ head_tags <- tags$head(
   tags$link(href = 'https://fonts.googleapis.com/css?family=Montserrat',rel = 'stylesheet'),
   tags$style(HTML("
     body { font-family: Montserrat, Roboto, Arial, sans-serif; margin: 0; }
-  "))
+  ")),
+  tags$link(rel = "stylesheet", href = "../css/style.css")
 )
 
 body_tags <- tags$body(
@@ -55,11 +56,62 @@ body_tags <- tags$body(
     )
   ),
   tags$div(
-    
+    style = 'position:relative;display:inline-block;',
+    tags$img(
+      src = 'image15.jpg',style = 'width:100%;display:block;'
+    ),
+    tags$div(
+      style = 'position: absolute;inset:0;background: #00000060;',
+      tags$h1(
+        'Papo de Pedal',
+        style = 'margin-left:5%;color:white;font-size:4vw;width:30%;'
+      ),
+      tags$h3(
+        'Portal de dados e resultados',
+        style = 'margin-left:5%;color:white;width:30%;font-size:3vw'
+      )
+    ),
+    tags$div(
+      style = 'position: absolute;top:10%;right:4%;display:flex;align-items:center;
+      gap:12px;',
+      tags$img(
+        src = 'image12.png',style = 'height:40px;display:block;'
+      ),
+      tags$img(
+        src = 'image7.png',style = 'height:40px;display:block;'
+      ),
+      tags$img(
+        src = 'image6.png',style = 'height:40px;display:block;'
+      )
+    )
+  ),
+  tags$div(
+    class = 'result-container',
+    style = '',
+    tags$div(
+      class = 'select-container',
+      style = 'width:30%',
+      tags$label("Edição:", `for` = "filtro",
+                 style = 'width:100%;display:block;margin-bottom:5px;'),
+      tags$select(
+        id = "filtro",
+        class = "multi-select",
+        tags$option(value = "A", "Edição 1"),
+        tags$option(value = "B", "Edição 2"),
+        tags$option(value = "C", "Edição 3"),
+        tags$option(value = "D", "Edição 4")
+      ),
+      tags$button('Filtrar',id = 'filtro_btn',
+                  class = 'btn-padrao',onclick = 'runfilter()',
+                  style = 'width:40%;'),
+      tags$link(rel = "stylesheet", href = "../css/filtro.css"),
+      tags$script(src = '../js/filtro.js')
+    )
   )
 )
 
 page <- tags$html(lang = "pt-BR", head_tags, body_tags)
+
 
 save_html(page, file = '../home/index.html')
 

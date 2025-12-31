@@ -1,0 +1,19 @@
+.multi-select {
+  width: 150px;
+  min-height: 30px;
+  padding: 6px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+      
+.multi-select option {
+  padding: 6px;
+}
+      
+.multi-select option:checked {
+  background: #2c7be5 linear-gradient(#2c7be5, #2c7be5);
+  color: white;
+}
+
+
