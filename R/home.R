@@ -94,7 +94,7 @@ body_tags <- tags$body(
       tags$iframe(
         src = '../edicoes/resumo/resumo.html',
         id = 'results_frame',
-        style = 'width:100%;height:auto;'
+        style = 'width:100%;min-height:200vh;height:auto;'
       )
     ),
     tags$div(
