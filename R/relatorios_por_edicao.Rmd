@@ -6,7 +6,7 @@ output:
     self_contained: false
 params:
   file_path: 'I:/.shortcut-targets-by-id/15QBAXOC5TdfNgOtQZh2jvqN37NjxkSM0/@BICI/06_Eixo Dados/Projetos/Papo de pedal/Edicao 270325/result/pesquisa_papo_pedal.rds'
-  title: 'Edição 25/10/2025'
+  title: 'Edição 27/03/2025'
 includes:
   in_header:
     style.css
@@ -37,6 +37,10 @@ html_wrap <- function(x,w){
 
 df <- readRDS(params$file_path)
 
+description <- params$file_path %>% 
+  dirname() %>% dirname() %>% 
+  paste0("/description.txt") %>% 
+  fread()
 
 ```
 

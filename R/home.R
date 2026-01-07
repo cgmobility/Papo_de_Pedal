@@ -108,7 +108,7 @@ body_tags <- tags$body(
         id = "filtro",
         class = "multi-select",
         tags$option(value = "resumo", "Resumo"),
-        tags$option(value = "20251025", "Edição 25/10/2025"),
+        tags$option(value = "20250327", "Edição 27/03/2025"),
         tags$option(value = "C", "Edição 3"),
         tags$option(value = "D", "Edição 4")
       ),
