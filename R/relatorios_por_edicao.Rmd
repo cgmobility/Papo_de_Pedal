@@ -142,11 +142,12 @@ p <- plot_ly(
       ),
       radialaxis = list(visible = FALSE)
     ),
-    margin = list(l = 80, r = 80, t = 60, b = 60)
+    margin = list(l = 90, r = 90, t = 90, b = 70)
   )
 
 tags$div(
-  style = "position:relative; width:50%;",
+  style = "position:relative; width:55%;",
+  tags$h3("Principal problema enfrentado"),
   p
 )
 
@@ -203,7 +204,7 @@ p <- apply(p, 1, function(x){
 s <- HTML(read_lines("../css/style_donut.css")) %>% tags$style()
 
 tags$div(
-  style = "position:relative; width:50%;",
+  style = "position:relative; width:45%;",
   tags$div(
     class = "grid",
     p,

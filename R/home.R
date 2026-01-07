@@ -18,7 +18,9 @@ head_tags <- tags$head(
   tags$style(HTML("
     body { font-family: Montserrat, Roboto, Arial, sans-serif; margin: 0; }
   ")),
-  tags$link(rel = "stylesheet", href = "../css/style.css")
+  tags$link(rel = "stylesheet", href = "../css/style.css"),
+  tags$link(rel = "shortcut icon",href = "../css/ico_bora_de_bike.png",
+            type = "image/png")
 )
 
 body_tags <- tags$body(
