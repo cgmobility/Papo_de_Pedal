@@ -13,3 +13,6 @@ rmarkdown::render(
   output_dir = '../edicoes/20250327/',
   output_file = '20250327.html'
 )
+
+
+print('su')
