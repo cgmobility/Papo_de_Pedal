@@ -11,5 +11,5 @@ rmarkdown::render(
   input = 'relatorios_por_edicao.Rmd',
   params = list(file_path = path,title = edicao),
   output_dir = '../edicoes/20250327/',
-  output_file = '20252703.html'
+  output_file = '20250327.html'
 )

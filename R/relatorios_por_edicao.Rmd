@@ -223,7 +223,7 @@ p <- apply(p, 1, function(x){
   )
 })
 
-s <- HTML(read_lines("../css/style_donut.css")) %>% tags$style()
+#s <- HTML(read_lines("../css/style_donut.css")) %>% tags$style()
 
 tags$div(
   style = "position:relative; width:45%;",
@@ -231,7 +231,8 @@ tags$div(
   tags$div(
     class = "grid",
     p,
-    s,
+    tags$link(href = "../../css/style_donut.css",rel = "stylesheet"),
+    #s,
     tags$script(HTML(read_lines("../js/popup_donut.js")))
   )
 )
