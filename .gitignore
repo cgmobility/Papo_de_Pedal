@@ -28,6 +28,8 @@
 # drive desktop.ini
 *desktop.ini
 
+#path project
+*project_path.txt
 
 # translation temp files
 po/*~

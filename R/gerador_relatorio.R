@@ -1,10 +1,12 @@
-
+rm(list = ls())
 library(LDA)
 library(rmarkdown)
 
 wd()
 
-path <- 'I:/.shortcut-targets-by-id/15QBAXOC5TdfNgOtQZh2jvqN37NjxkSM0/@BICI/06_Eixo Dados/Projetos/Papo de pedal/Edicao 270325/result/pesquisa_papo_pedal.rds'
+
+path <- paste0(Sys.getenv('papo_pedal_project_path'),
+               'Edicao 270325/result/pesquisa_papo_pedal.rds')
 edicao <- "Edição 27/03/2025"
 
 rmarkdown::render(
@@ -14,5 +16,3 @@ rmarkdown::render(
   output_file = '20250327.html'
 )
 
-
-print('su')

@@ -246,6 +246,40 @@ tags$div(
 
 <div class="fullcontainer" style="width:100%;display:flex;position:relative;">
 
-<h2>Segunda Linha</h2>
+
+<div class="leftcol" style="width:70%;flex: 6 1 600px; position:relative;display:flex;">
+
+```{r leafletmap, warning=FALSE,message=FALSE}
+
+tags$div(
+  style = "width:100%;height:500px;",
+  tags$iframe(
+    src = "../../basemap/map.html",
+    style = "width:100%;height:100%",
+    id = "leafmap_edicoes",
+    loading = "lazy"
+  ),
+  tags$script(
+      readChar("../js/show_group.js",nchars = 9000) %>% 
+        str_replace_all("GRUPO_ID",
+                        as.character(description$data)) %>% 
+        str_replace("LONGITUDE",as.character(description$long)) %>% 
+        str_replace("LATITUDE",as.character(description$lat))
+    )
+)
+
+
+```
+
+
+
+</div>
+
+<div class="rightcol" style="width:29%;flex: 3 1 250px; position:relative;display:flex;">
+
+
+
+</div>
+
 
 </div>
