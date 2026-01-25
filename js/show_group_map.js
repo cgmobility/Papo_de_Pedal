@@ -31,6 +31,12 @@ function tryShow(group,latitude,longitude) {
 }
 
 window.addEventListener("message", (event) => {
+  
+  console.log("--- NOVA MENSAGEM RECEBIDA ---");
+
+  // 2. De onde veio? (URL do iframe)
+  console.log("Origem:", event.data);
+  
   const msg = event.data;
   if (!msg || msg.type !== "MAP_CMD") return;   // filtro
 
@@ -44,3 +50,12 @@ setTimeout(function(){
     elem.style.visibility = "hidden";
     elem.style.height = "0px";
   },1000)
+
+
+function go_to_edition_son(edition){
+  console.log("Enviando edição para o topo:", edition);
+  window.parent.parent.postMessage(
+    { action: "execute_go_to_edition", edition_id: edition},
+    "*"
+    );
+}

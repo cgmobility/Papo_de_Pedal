@@ -10,6 +10,36 @@ library(htmlwidgets)
 
 wd()
 
+descriptions <- list.files(
+  path = Sys.getenv('papo_pedal_project_path'),
+  pattern = 'description.txt',
+  full.names = T,recursive = T
+) %>% lapply(fread) %>% bind_rows()
+
+lbl_edition <- function(date){
+  dt <- as.POSIXct(as.character(date),format = '%Y%m%d')
+  paste0(
+    'Edição ',
+    sprintf('%02d',lubridate::day(dt)),'/',
+    sprintf('%02d',lubridate::month(dt)),'/',
+    lubridate::year(dt)
+  ) %>% return()
+}
+
+list_options <- function(editions_date){
+  tibble(
+    id = c('resumo',editions_date),
+    lbl = c('Resumo',lbl_edition(editions_date))
+  ) %>% apply(1, function(x){
+    tags$option(
+      value = x['id'],
+      x['lbl']
+    )
+  })
+}
+
+
+
 head_tags <- tags$head(
   tags$meta(charset = "utf-8"),
   tags$meta(name = "viewport", content = "width=device-width, initial-scale=1"),
@@ -107,10 +137,7 @@ body_tags <- tags$body(
       tags$select(
         id = "filtro",
         class = "multi-select",
-        tags$option(value = "resumo", "Resumo"),
-        tags$option(value = "20250327", "Edição 27/03/2025"),
-        tags$option(value = "C", "Edição 3"),
-        tags$option(value = "D", "Edição 4")
+        list_options(descriptions$data)
       ),
       tags$button('Filtrar',id = 'filtro_btn',
                   class = 'btn-padrao',onclick = 'runfilter()',
@@ -126,4 +153,4 @@ page <- tags$html(lang = "pt-BR", head_tags, body_tags)
 
 save_html(page, file = '../home/index.html')
 
-shell.exec(normalizePath(paste0(getwd(),'/../home/index.html')))
+

@@ -25,21 +25,32 @@ edicoes <- edicoes %>%
   rename('data_edicao'='data') %>% 
   mutate(data_edicao = as.character(data_edicao))
 
+lbl_edition <- function(date){
+  dt <- as.POSIXct(as.character(date),format = '%Y%m%d')
+  paste0(
+    'Edição ',
+    sprintf('%02d',lubridate::day(dt)),'/',
+    sprintf('%02d',lubridate::month(dt)),'/',
+    lubridate::year(dt)
+  ) %>% return()
+}
 
 tag_popup <- function(date,address,btn = T){
   if(btn){
     tags$div(
-      tags$h4('Edição: ',str_sub(date,-2),'/',
+      class = 'popup_edicao',
+      tags$h3('Edição: ',str_sub(date,-2),'/',
               str_sub(date,5,6),'/',str_sub(date,1,4)),
       tags$p(address),
       tags$button(
         class = 'btn-padrao',
         'Ir para edição',
-        onclick = paste0('go_to_edition("',date,'")')
+        onclick = HTML(paste0('go_to_edition_son(\'',lbl_edition(date),'\');'))
       )
     ) %>% as.character()
   }else{
     tags$div(
+      class = "popup_edicao",
       tags$h4('Edição: ',str_sub(date,-2),'/',
               str_sub(date,5,6),'/',str_sub(date,1,4)),
       tags$p(address)
@@ -106,6 +117,11 @@ m <- htmlwidgets::onRender(l, js_api)
 
 m <- htmlwidgets::appendContent(m,tags$script(
   src = '../js/show_group_map.js'
+))
+
+m <- htmlwidgets::appendContent(m,tags$link(
+  href = '../css/basemap.css',
+  rel = "stylesheet"
 ))
 
 htmlwidgets::saveWidget(m, "../basemap/map.html", selfcontained = FALSE)

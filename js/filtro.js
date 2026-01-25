@@ -26,4 +26,36 @@ function runfilter(){
   
 }
 
+window.addEventListener("message", (event) => {
+  
+  console.log("--- NOVA MENSAGEM RECEBIDA ---");
+  
+  msg = event.data
+
+  // 2. De onde veio? (URL do iframe)
+  console.log("Origem:", msg);
+  
+  
+  // Verifica se a mensagem enviada é o comando para executar sua função
+  if (msg.action === "execute_go_to_edition") {
+    console.log('aqui');
+    go_to_edition(msg.edition_id);
+  }
+}, false);
+
+
+function go_to_edition(edition){
+  select = document.getElementById('filtro');
+  options = select.querySelectorAll('option');
+  let index;
+  for (var i = 0; i < options.length; i++) {
+    if(options[i].textContent.trim() === edition){
+      index = i;
+    }
+  }
+  select.selectedIndex = index;
+  
+  document.getElementById("filtro_btn").click();
+  
+}
 
