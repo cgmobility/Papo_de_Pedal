@@ -7,6 +7,10 @@ wd()
 
 config_gargle_sheets()
 
+
+# Lista os diretórios de cada edição -----------------------------------------------------
+
+
 paths <- list.dirs(
   path = Sys.getenv('papo_pedal_project_path'),
   recursive = F
@@ -21,14 +25,38 @@ nm <- sapply(paths, function(x){
 
 paths <- paste0(paths,'/result/') %>% setNames(nm)
 
-lapply(paths, function(x){
-  list(
-    path = x,
-    list = list.files(
-      path = x,
-      pattern = '.gsheet|.xlsx|.rds'
-    ))
-}) %>% View()
+
+# Verifica edições com HTML gerado ----------------------------------------
+
+htmls <- list.dirs(
+  path = '../edicoes/',
+  recursive = F
+) %>% lapply(list.files, pattern = '.html',full.names = T) %>% 
+  unlist() %>% 
+  unname() %>% 
+  basename() %>% 
+  str_remove('\\.html')
+
+library(svDialogs)
+
+resp <- dlgMessage('Deseja gerar novamente HTMLs prontos?',type = 'yesno')
+
+if(resp$res!='yes'){
+  paths <- paths[nm%in%htmls==FALSE]
+  nm <- nm[nm %in% htmls == FALSE]
+}
+
+# lapply(paths, function(x){
+#   list(
+#     path = x,
+#     list = list.files(
+#       path = x,
+#       pattern = '.gsheet|.xlsx|.rds'
+#     ))
+# }) %>% View()
+
+
+# Transforma os gsheets em rds --------------------------------------------
 
 
 file_paths <- lapply(paths, function(x){
@@ -58,6 +86,11 @@ file_paths <- lapply(paths, function(x){
 
 nm <- unname(nm) %>% as.character()
 
+
+# Construção do relatório -------------------------------------------------
+
+file.remove('logs.txt');file.create('logs.txt')
+
 for (i in 1:length(file_paths)) {
   
   dt <- as.POSIXct(as.character(nm[1]),format = '%Y%m%d')
@@ -75,9 +108,13 @@ for (i in 1:length(file_paths)) {
     output_dir = paste0('../edicoes/',nm[i],'/'),
     output_file = paste0(nm[i],'.html')
   ) %>% tryCatch(error = function(e){
+    sink('logs.txt',append = T)
+    print('\nfile:\n')
+    print(file_paths[[i]])
     print(e)
     print(i)
     print('\n')
+    sink()
   })
 }
 

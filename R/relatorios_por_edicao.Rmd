@@ -5,8 +5,8 @@ output:
     theme: null
     self_contained: false
 params:
-  file_path: 'I:/.shortcut-targets-by-id/15QBAXOC5TdfNgOtQZh2jvqN37NjxkSM0/@BICI/06_Eixo Dados/Projetos/Papo de pedal/Edicao 270325/result/pesquisa_papo_pedal.rds'
-  title: 'Edição 27/03/2025'
+  file_path: 'I:/.shortcut-targets-by-id/15QBAXOC5TdfNgOtQZh2jvqN37NjxkSM0/@BICI/06_Eixo Dados/Projetos/Papo de pedal/Edicao 071124/result/pesquisa_papo_pedal.rds'
+  title: 'Edição 07/11/2024'
 includes:
   in_header:
     style.css
@@ -190,6 +190,11 @@ tags$div(
 
 ```{r problemas,  warning=FALSE,message=FALSE}
 
+try({
+  df <- df %>% 
+    rename("qual_e_o_principal_problema_que_voce_enfrenta_ao_andar_de_bicicleta_em_fortaleza_agrupado"="qual_e_o_principal_problema_que_voce_enfrenta_ao_pedalar_em_fortaleza_agrupado")
+})
+
 p <- df %>% 
   pull(qual_e_o_principal_problema_que_voce_enfrenta_ao_andar_de_bicicleta_em_fortaleza_agrupado) %>% 
   str_split(";") %>% 
@@ -347,7 +352,16 @@ if("voce_sofreu_acidente_ultimos_anos" %in% names(df) &
 
 ```{r mudanca_modo, warning=FALSE,message=FALSE}
 
-p <- df$voce_gostaria_de_trocar_a_bicicleta_por_outro_meio_de_transporte_agrupado %>% 
+try({
+  df <- df %>% 
+    rename(
+      "voce_gostaria_de_trocar_a_bicicleta_por_outro_meio_de_transporte_agrupado"="gostaria_de_trocar_a_bicicleta_por_outro_meio_de_transporte_agrupado"
+    )
+})
+
+
+p <- df %>% 
+  pull(voce_gostaria_de_trocar_a_bicicleta_por_outro_meio_de_transporte_agrupado) %>% 
   table() %>% 
   as_tibble() %>% 
   setNames(c("value","n")) %>% 
