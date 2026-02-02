@@ -18,4 +18,14 @@
   <div style="width:67%;display:block;">
     <h1>Espaço em branco</h1>
   </div>
+  <div>
+    <script>
+      setTimeout(function() {
+        window.parent.postMessage(
+            { action: "execute_go_to_edition", edition_id: "Edição 27/03/2025"},
+            "*"
+          );
+      }, 1500);
+    </script>
+  </div>
 </body>
