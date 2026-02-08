@@ -83,3 +83,7 @@ g.g-title>text{
 .circle_img>img{
   width: 28px;
 }
+
+.foot_img:hover{
+  cursor: pointer !important;
+}
