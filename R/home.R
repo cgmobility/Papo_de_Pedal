@@ -16,6 +16,11 @@ descriptions <- list.files(
   full.names = T,recursive = T
 ) %>% lapply(fread) %>% bind_rows()
 
+descriptions <- descriptions %>% 
+  mutate(data2 = as.POSIXct(as.character(data),format = "%Y%m%d")) %>% 
+  arrange(data2) %>% 
+  select(-data2)
+
 lbl_edition <- function(date){
   dt <- as.POSIXct(as.character(date),format = '%Y%m%d')
   paste0(

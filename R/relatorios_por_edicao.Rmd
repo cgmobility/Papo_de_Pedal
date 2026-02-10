@@ -201,7 +201,7 @@ table.sinistros>tbody>tr>td{
 
 ```{r whitediv, warning=FALSE,message=FALSE}
 
-tags$div(style = "width:100%;min-height:60px;display:block;background-color:white")
+
 
 
 ```
