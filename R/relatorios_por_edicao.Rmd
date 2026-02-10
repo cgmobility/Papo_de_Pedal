@@ -5,7 +5,7 @@ output:
     theme: null
     self_contained: false
 params:
-  file_path: 'I:/.shortcut-targets-by-id/15QBAXOC5TdfNgOtQZh2jvqN37NjxkSM0/@BICI/06_Eixo Dados/Projetos/Papo de pedal/Edicao 071124/result/pesquisa_papo_pedal.rds'
+  file_path: 'H:/.shortcut-targets-by-id/15QBAXOC5TdfNgOtQZh2jvqN37NjxkSM0/@BICI/06_Eixo Dados/Projetos/Papo de pedal/Edicao 071124/result/pesquisa_papo_pedal.rds'
   title: 'Edição 07/11/2024'
 includes:
   in_header:
@@ -51,6 +51,122 @@ description <- params$file_path %>%
   dirname() %>% dirname() %>% 
   paste0("/description.txt") %>% 
   fread()
+
+```
+
+
+```{r header2, warning=FALSE,message=FALSE}
+
+tags$div(
+  class = "fullcontainer",
+  style = "width: calc(100% + 20px);display:flex;
+  position:relative;flex-wrap:wrap;gap:0px;
+  margin-left:-10px;margin-right:-10px;margin-top:-10px;
+  background: #00A0DC40; border-bottom: solid 1px #00A0DC",
+  tags$table(
+    class = "subheader",
+    tags$tr(
+      tags$td(
+        style = "width:30%;"
+      ),
+      tags$td(
+        style = "width:35%;",
+        tags$span(
+          "Não entendeu alguma coisa?",
+          tags$br(),
+          tags$a(
+          href = "../../sobre/sobre.html",
+          target = "_top",style = "color:black;",
+          "Leia mais sobre o projeto"
+          ),
+        )
+      ),
+      tags$td(
+        style = "width:35%;",
+        tags$span(
+            "Baixe os dados dessa edição:",
+            tags$br(),
+            tags$span(
+              tags$a(
+                href = paste0("pesquisa_",description$data,".csv"),
+                style = "text-decoration:none;",
+                download = paste0("pesquisa_",description$data,".csv"),
+                tags$span(
+                  class = "tip",
+                  tags$span(
+                    class = "tiptext",
+                    "Download",tags$br(),"csv"
+                  ),
+                  tags$img(
+                  src = "../../css/noun_download.svg",
+                  height = "50px",
+                  style = "margin-top:-10px;"
+                )
+                )
+              ),
+              tags$a(
+                href = "https://github.com/BICI-Fortal/Papo_de_Pedal",
+                target = "_blank",
+                style = "text-decoration:none;",
+                tags$span(
+                    class="tip",
+                    tags$span(
+                      class="tiptext",
+                      "Acesse nosso",
+                      tags$br(),
+                      "repositório!"
+                    ),
+                    tags$img(
+                      class = "icons_tip",
+                      src = "../../css/noun_github.svg",
+                      height = "50px",
+                      style = "margin-top:-10px;"
+                    )
+                  )
+              )
+            )
+          )
+      )
+    )
+  ),
+  tags$style(
+    HTML(
+      "table.subheader{
+      width:100%;
+    }
+    table.subheader>tbody>tr{
+     align-items:center;
+     text-align:center;
+     margin:0px;
+    }
+    table.subheader>tbody>tr>td{
+     text-align:center;
+     margin:0px;
+    }
+    table.subheader>tbody>tr>td>span{
+     font-size: larger;
+    }
+    table.subheader>tbody{
+     margin:0px;
+    }
+    .tip:hover .tiptext{
+      visibility: visible;
+      opacity:1;
+    }
+    .tip .tiptext{
+      position:absolute;
+      color:black;
+      background:#ffffff70;
+      margin-left: 0px;
+      font-size: small;
+      margin-top: 30px;
+      visibility: hidden;
+      opacity: 0;
+    }"
+    )
+  )
+)
+
 
 ```
 

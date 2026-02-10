@@ -116,6 +116,10 @@ for (i in 1:length(file_paths)) {
     print('\n')
     sink()
   })
+  
+  readRDS(file_paths[[i]]) %>% 
+    fwrite(paste0('../edicoes/',nm[i],'/pesquisa_',nm[i],'.csv'))
+  
 }
 
 # path <- paste0(Sys.getenv('papo_pedal_project_path'),

@@ -1,0 +1,554 @@
+text,conversation,file,nome,idade,gênero,por_que_escolheu_andar_de_bicicleta?,ha_quanto_tempo_utiliza?,qual_e_o_principal_problema_que_voce_enfrenta_ao_andar_de_bicicleta_em_fortaleza,tem_medo_de_sofrer_acidentes_andando_de_bicicleta_em_Fortaleza?,sofreu_algum_acidente_no_último_ano?,gostaria_de_trocar_a_bicicleta_por_outro_meio_de_transporte,existe_alguma_rua_em_fortaleza_em_que_gostaria_de_ver_uma_ciclovia,por_que_escolheu_ou_escolhe_andar_de_bicicleta_agrupado,ha_quanto_tempo_utiliza_agrupado,qual_e_o_principal_problema_que_voce_enfrenta_ao_andar_de_bicicleta_em_fortaleza_agrupado,tem_medo_de_sofrer_acidentes_andando_de_bicicleta_em_Fortaleza_agrupado,sofreu_algum_acidente_no_último_ano_agrupado,gostaria_de_trocar_a_bicicleta_por_outro_meio_de_transporte_agrupado
+"Nome e idade? Gabriel, tenho 21 anos. Certo. Por que você escolheu andar de bicicleta e quanto tempo você utiliza, mais ou menos? Eu utilizo dia todo, noite, porque vai bem a saúde, o esporte mesmo. Qual o principal problema que você enfrenta ao andar de bicicleta aqui? Nenhum. Nenhum problema. Só em termos das faixas, né? De ciclovia que tem que ser mais voltado nas avenidas. Você tem medo de sofrer algum tipo de acidente andando de bicicleta? Sim, tenho. Dos carros. Dos carros, né? É. Você já sofreu algum acidente? Não. Não? Ainda bem. Você gostaria de trocar a bicicleta por algum outro meio de transporte ou satisfeito? Não, satisfeito com a bicicleta. Ótimo. Existe alguma rua em Fortaleza que você gostaria de ter ciclovia? Não. Todos os cantos em Fortaleza deveriam ter, né? Pelo céu? Sim. Mas pelos locais que você anda, já tem. Já tem. Sério. Pronto, é isso.","Pessoa A: Nome e idade?
+Pessoa B: Gabriel, tenho 21 anos.
+Pessoa A: Certo. Por que você escolheu andar de bicicleta e quanto tempo você utiliza, mais ou menos?
+Pessoa B: Eu utilizo dia todo, noite, porque vai bem a saúde, o esporte mesmo.
+Pessoa A: Qual o principal problema que você enfrenta ao andar de bicicleta aqui?
+Pessoa B: Nenhum. Nenhum problema. Só em termos das faixas, né? De ciclovia que tem que ser mais voltado nas avenidas.
+Pessoa A: Você tem medo de sofrer algum tipo de acidente andando de bicicleta?
+Pessoa B: Sim, tenho. Dos carros.
+Pessoa A: Dos carros, né?
+Pessoa B: É.
+Pessoa A: Você já sofreu algum acidente?
+Pessoa B: Não.
+Pessoa A: Não? Ainda bem. Você gostaria de trocar a bicicleta por algum outro meio de transporte ou satisfeito?
+Pessoa B: Não, satisfeito com a bicicleta.
+Pessoa A: Ótimo. Existe alguma rua em Fortaleza que você gostaria de ter ciclovia?
+Pessoa B: Não. Todos os cantos em Fortaleza deveriam ter, né? Pelo céu?
+Pessoa A: Sim. Mas pelos locais que você anda, já tem.
+Pessoa B: Já tem.
+Pessoa A: Sério. Pronto, é isso.",00000005-AUDIO-2025-10-30-10-45-50,Gabriel,21 anos,Masculino,"Eu utilizo dia todo, noite, porque vai bem a saúde, o esporte mesmo.","Eu utilizo dia todo, noite, porque vai bem a saúde, o esporte mesmo.","Nenhum. Nenhum problema. Só em termos das faixas, né? De ciclovia que tem que ser mais voltado nas avenidas.","Sim, tenho. Dos carros.",Você já sofreu algum acidente? Não. Não? Ainda bem.,"Não, satisfeito com a bicicleta.","Existe alguma rua em Fortaleza que você gostaria de ter ciclovia? Não. Todos os cantos em Fortaleza deveriam ter, né? Pelo céu? Sim. Mas pelos locais que você anda, já tem. Já tem.",Exercício e saúde,,Falta de ciclovias,"Sim, tenho medo de acidentes",Não,Não
+"Qual o seu nome e sua idade? Simone. A idade? 39. Por que você escolheu andar de bicicleta e quanto tempo mais ou menos utiliza? É mais rápida e. Evita. Muito constrangimento no trânsito. Sim. Você já utiliza há muito tempo? Muito tempo. Qual o principal problema que você enfrenta ao andar de bicicleta? Mais na sinalização do semáforo. Você tem medo de sofrer acidente andando de bicicleta? Sim. Você já sofreu um acidente? De bicicleta, não. Graças a Deus, né? Você gostaria de trocar a bicicleta por algum outro meio de transporte? Não. E existe alguma rua em Fortaleza que você gostaria de ter uma ciclovia? Você anda assim, sente falta? Sim, principalmente na faixa de onde passam os colégios e tem muita movimentação na hora de pegar a criança e de deixar. Eu vi que tem bastante. É. Pronto, é isso.","Pessoa A: Qual o seu nome e sua idade?
+Pessoa B: Simone.
+Pessoa A: A idade?
+Pessoa B: 39.
+Pessoa A: Por que você escolheu andar de bicicleta e quanto tempo mais ou menos utiliza?
+Pessoa B: É mais rápida e.
+Pessoa A: Evita.
+Pessoa B: Muito constrangimento no trânsito.
+Pessoa A: Sim. Você já utiliza há muito tempo?
+Pessoa B: Muito tempo.
+Pessoa A: Qual o principal problema que você enfrenta ao andar de bicicleta?
+Pessoa B: Mais na sinalização do semáforo.
+Pessoa A: Você tem medo de sofrer acidente andando de bicicleta? Sim. Você já sofreu um acidente?
+Pessoa B: De bicicleta, não.
+Pessoa A: Graças a Deus, né? Você gostaria de trocar a bicicleta por algum outro meio de transporte?
+Pessoa B: Não.
+Pessoa A: E existe alguma rua em Fortaleza que você gostaria de ter uma ciclovia? Você anda assim, sente falta?
+Pessoa B: Sim, principalmente na faixa de onde passam os colégios e tem muita movimentação na hora de pegar a criança e de deixar.
+Pessoa A: Eu vi que tem bastante. É. Pronto, é isso.",00000006-AUDIO-2025-10-30-10-47-13,Simone,39,Feminino,É mais rápida e. Evita. Muito constrangimento no trânsito. Sim.,Muito tempo.,Mais na sinalização do semáforo.,Você tem medo de sofrer acidente andando de bicicleta? Sim.,"Você já sofreu um acidente? De bicicleta, não. Graças a Deus, né?",Você gostaria de trocar a bicicleta por algum outro meio de transporte? Não.,"Sim, principalmente na faixa de onde passam os colégios e tem muita movimentação na hora de pegar a criança e de deixar.",Rapidez \ Tempo; Segurança no trânsito,Mais de 5 anos,Sinalização inadequada,"Sim, tenho medo de acidentes",Não,Não
+"Qual é o teu nome e idade? Francisca Janieri, idade 13 anos. Por que tu escolheu andar de bicicleta e a quanto tempo tu utiliza? Desde novinho que eu ando de bicicleta. Eu gosto de andar de bicicleta, eu acho muito bom andar de bicicleta. E qual o principal problema que tu enfrenta ao andar de bicicleta em Porto Alegre? Trânsito. Trânsito. E com relação a criança? Tem algum problema também? Tem. É, porque às vezes ele anda aqui ó, é muito complicado andar com ele aqui na frente. E tu tem medo de sofrer acidente? Sim, com certeza. Já sofreu algum acidente no último ano? Não, graças a Deus não. E tu gostaria de trocar de bicicleta para outro meio de transporte? Não. Não. E existe alguma rua aqui em Fortaleza que você gostaria que tivesse que ouvir? Não, eu não conheço muito aqui, que eu moro há pouco tempo. Tá. Perfeito. Obrigado, viu?","Pessoa A: Qual é o teu nome e idade?
+Pessoa B: Francisca Janieri, idade 13 anos.
+Pessoa A: Por que tu escolheu andar de bicicleta e a quanto tempo tu utiliza?
+Pessoa B: Desde novinho que eu ando de bicicleta. Eu gosto de andar de bicicleta, eu acho muito bom andar de bicicleta.
+Pessoa A: E qual o principal problema que tu enfrenta ao andar de bicicleta em Porto Alegre?
+Pessoa B: Trânsito.
+Pessoa A: Trânsito. E com relação a criança? Tem algum problema também?
+Pessoa B: Tem. É, porque às vezes ele anda aqui ó, é muito complicado andar com ele aqui na frente.
+Pessoa A: E tu tem medo de sofrer acidente?
+Pessoa B: Sim, com certeza.
+Pessoa A: Já sofreu algum acidente no último ano?
+Pessoa B: Não, graças a Deus não.
+Pessoa A: E tu gostaria de trocar de bicicleta para outro meio de transporte?
+Pessoa B: Não.
+Pessoa A: Não. E existe alguma rua aqui em Fortaleza que você gostaria que tivesse que ouvir?
+Pessoa B: Não, eu não conheço muito aqui, que eu moro há pouco tempo.
+Pessoa A: Tá. Perfeito. Obrigado, viu?",00000007-AUDIO-2025-10-30-10-48-02,Francisca Janieri,13 anos,Feminino,"Desde novinho que eu ando de bicicleta. Eu gosto de andar de bicicleta, eu acho muito bom andar de bicicleta.",Desde novinho que eu ando de bicicleta.,E qual o principal problema que tu enfrenta ao andar de bicicleta em Porto Alegre? Trânsito. Trânsito.,"E tu tem medo de sofrer acidente? Sim, com certeza.","Já sofreu algum acidente no último ano? Não, graças a Deus não.",E tu gostaria de trocar de bicicleta para outro meio de transporte? Não. Não.,"E existe alguma rua aqui em Fortaleza que você gostaria que tivesse que ouvir? Não, eu não conheço muito aqui, que eu moro há pouco tempo.",Preferência pessoal,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Não,Não
+"É rapidinho. É só o seu nome e sua idade? Pedro Vieira Moura, 37 anos. Por que você escolheu andar de bicicleta? É esporte, né? E exercício também e tudo isso. Entendi. Qual o principal problema que você enfrenta andando de bicicleta? Eu não tenho. Tenho uma ciclovia, não tenho. Você tem medo de sofrer algum acidente andando de bicicleta? Demais. Você já sofreu algum acidente? Não. Futuramente, mas por enquanto eu vou ficando na bicicleta. Entendi. E existe alguma rua em Fortaleza que você gostaria de ter uma ciclovia em específico? Não sei, eu não ando muito, só aqui mesmo na escola. Só localmente, né? Tá, tá ótimo. É isso.","Pessoa A: É rapidinho. É só o seu nome e sua idade?
+Pessoa B: Pedro Vieira Moura, 37 anos.
+Pessoa A: Por que você escolheu andar de bicicleta?
+Pessoa B: É esporte, né? E exercício também e tudo isso.
+Pessoa A: Entendi. Qual o principal problema que você enfrenta andando de bicicleta?
+Pessoa B: Eu não tenho. Tenho uma ciclovia, não tenho.
+Pessoa A: Você tem medo de sofrer algum acidente andando de bicicleta?
+Pessoa B: Demais.
+Pessoa A: Você já sofreu algum acidente?
+Pessoa B: Não.
+Pessoa B: Futuramente, mas por enquanto eu vou ficando na bicicleta.
+Pessoa A: Entendi. E existe alguma rua em Fortaleza que você gostaria de ter uma ciclovia em específico?
+Pessoa B: Não sei, eu não ando muito, só aqui mesmo na escola.
+Pessoa A: Só localmente, né? Tá, tá ótimo. É isso.",00000008-AUDIO-2025-10-30-10-50-03,Pedro Vieira Moura,37 anos,Masculino,"É esporte, né? E exercício também e tudo isso.",O texto não especifica há quanto tempo a pessoa anda de bicicleta.,"Qual o principal problema que você enfrenta andando de bicicleta? Eu não tenho. Tenho uma ciclovia, não tenho.",Você tem medo de sofrer algum acidente andando de bicicleta? Demais.,Você já sofreu algum acidente? Não.,"Futuramente, mas por enquanto eu vou ficando na bicicleta.","Não sei, eu não ando muito, só aqui mesmo na escola. Só localmente, né?",Exercício e saúde,,Falta de ciclovias,"Sim, tenho medo de acidentes",Não,Não
+"Qual o teu nome e idade? Fernando Marques, 32 anos. Por que tu escolheu andar de bicicleta e há quanto tempo tu utiliza? Bicicleta porque tem alguns fatores, um saúde, o outro fator sustentável, econômico, é barato. E porque a cidade ofereceu também um pouco mais de infraestrutura para a gente conseguir se deslocar. Embora ainda existam vários desafios. Qual o principal problema que tem dentro da mudança de bicicleta na Vandaleza? Uma má conservação das ciclovias e ciclofaixas e a segunda é a falta de compreensão do do usuário de veículos automotores. Em relação ao que é a bicicleta. Já que tá até no código de. Trânsito brasileiro que faz parte do trânsito, mas a galera não compreende. E com relação a criança, tem dificuldade de transportar? Justamente por essa falta de compreensão, acaba. Que a gente tem receio de andar em dias comuns com criança, porque afinal. A gente sabe que se ocorre um acidente, alguma coisa, o adulto consegue, né? É mais resistente do que a criança. Que é mais frágil, né? Mas essa é a dificuldade. Não, teria como já aconteceu, né? Não com carros, mas na própria ciclofaixa com pessoas. Mas eu digo que a gente sabe. Que a criança é mais frágil, né? Então... Eu jamais, por exemplo, ando, acho que você perguntou a quanto tempo eu ando, não sei se respondi, né? Não sei se tá aí. Mas eu ando há um bom tempo de bicicleta, já usei um ano inteiro, dois anos como ir pro trabalho, pedalando aí vários quilômetros por ano, mas eu não faria esse percurso com ela no. Dia a dia, na semana. Tu já chegou a sofrer algum acidente no último ano? Nenhum com veículos, automotores, mas já eu com pedestres, galera que corre, faz corrida na ciclofaixa, também não entende como é que funciona, né? Tu gostaria de trocar bicicleta por algum outro meio de transporte? Às vezes tenho essa necessidade, né? Por ter família também, mas se eu tivesse. Tanto condições na via como no lugar de trabalho, nos lugares de trabalho, né? Pra você arrumar um banho, se trocar, guardar a bicicleta adequadamente, troco não. E assim, teria alguma via aqui em Fortaleza? Alguma rua que tu gostaria que tivesse uma ciclovia, ciclofaixa? Que tivesse ciclovia e ciclofaixa? Eu gostaria que, pensando aqui onde eu moro, que o restante da... da Ministerral, do 3º Terminal, do Antônio Bezerra, até pelo menos a ponte, a rodoviária, tivesse ciclovisse e ciclofaixa também. Eu entendo que existe aí uma questão de administração do governo federal, né, de dirigição, mas eu acho que quando quer fazer acontecer, acontece, né? É, faz o pessoal mesmo querer. Perfeito, obrigadão, viu?","Pessoa A: Qual o teu nome e idade?
+Pessoa B: Fernando Marques, 32 anos.
+Pessoa A: Por que tu escolheu andar de bicicleta e há quanto tempo tu utiliza?
+Pessoa B: Bicicleta porque tem alguns fatores, um saúde, o outro fator sustentável, econômico, é barato.
+Pessoa B: E porque a cidade ofereceu também um pouco mais de infraestrutura para a gente conseguir se deslocar. Embora ainda existam vários desafios.
+Pessoa A: Qual o principal problema que tem dentro da mudança de bicicleta na Vandaleza?
+Pessoa B: Uma má conservação das ciclovias e ciclofaixas e a segunda é a falta de compreensão do do usuário de veículos automotores.
+Pessoa C: Em relação ao que é a bicicleta.
+Pessoa B: Já que tá até no código de.
+Pessoa C: Trânsito brasileiro que faz parte do trânsito, mas a galera não compreende.
+Pessoa A: E com relação a criança, tem dificuldade de transportar?
+Pessoa B: Justamente por essa falta de compreensão, acaba.
+Pessoa C: Que a gente tem receio de andar em dias comuns com criança, porque afinal.
+Pessoa B: A gente sabe que se ocorre um acidente, alguma coisa, o adulto consegue, né? É mais resistente do que a criança.
+Pessoa C: Que é mais frágil, né?
+Pessoa B: Mas essa é a dificuldade. Não, teria como já aconteceu, né? Não com carros, mas na própria ciclofaixa com pessoas.
+Pessoa C: Mas eu digo que a gente sabe.
+Pessoa B: Que a criança é mais frágil, né?
+Pessoa C: Então...
+Pessoa B: Eu jamais, por exemplo, ando, acho que você perguntou a quanto tempo eu ando, não sei se respondi, né?
+Pessoa C: Não sei se tá aí.
+Pessoa B: Mas eu ando há um bom tempo de bicicleta, já usei um ano inteiro, dois anos como ir pro trabalho, pedalando aí vários quilômetros por ano, mas eu não faria esse percurso com ela no.
+Pessoa C: Dia a dia, na semana.
+Pessoa A: Tu já chegou a sofrer algum acidente no último ano?
+Pessoa B: Nenhum com veículos, automotores, mas já eu com pedestres, galera que corre, faz corrida na ciclofaixa, também não entende como é que funciona, né?
+Pessoa A: Tu gostaria de trocar bicicleta por algum outro meio de transporte?
+Pessoa B: Às vezes tenho essa necessidade, né? Por ter família também, mas se eu tivesse.
+Pessoa B: Tanto condições na via como no lugar de trabalho, nos lugares de trabalho, né? Pra você arrumar um banho, se trocar, guardar a bicicleta adequadamente, troco não.
+Pessoa A: E assim, teria alguma via aqui em Fortaleza? Alguma rua que tu gostaria que tivesse uma ciclovia, ciclofaixa?
+Pessoa B: Que tivesse ciclovia e ciclofaixa? Eu gostaria que, pensando aqui onde eu moro, que o restante da... da Ministerral, do 3º Terminal, do Antônio Bezerra, até pelo menos a ponte, a rodoviária, tivesse ciclovisse e ciclofaixa também. Eu entendo que existe aí uma questão de administração do governo federal, né, de dirigição, mas eu acho que quando quer fazer acontecer, acontece, né?
+Pessoa C: É, faz o pessoal mesmo querer.
+Pessoa A: Perfeito, obrigadão, viu?",00000009-AUDIO-2025-10-30-10-51-39,Fernando Marques,32 anos,Masculino,"Bicicleta porque tem alguns fatores, um saúde, o outro fator sustentável, econômico, é barato. E porque a cidade ofereceu também um pouco mais de infraestrutura para a gente conseguir se deslocar. Embora ainda existam vários desafios.","Eu ando há um bom tempo de bicicleta, já usei um ano inteiro, dois anos como ir pro trabalho, pedalando aí vários quilômetros por ano.",Uma má conservação das ciclovias e ciclofaixas e a segunda é a falta de compreensão do do usuário de veículos automotores.,"Justamente por essa falta de compreensão, acaba. Que a gente tem receio de andar em dias comuns com criança, porque afinal. A gente sabe que se ocorre um acidente, alguma coisa, o adulto consegue, né? É mais resistente do que a criança. Que é mais frágil, né? Mas essa é a dificuldade.","Nenhum com veículos, automotores, mas já eu com pedestres, galera que corre, faz corrida na ciclofaixa, também não entende como é que funciona, né?","Às vezes tenho essa necessidade, né? Por ter família também, mas se eu tivesse. Tanto condições na via como no lugar de trabalho, nos lugares de trabalho, né? Pra você arrumar um banho, se trocar, guardar a bicicleta adequadamente, troco não.","Eu gostaria que, pensando aqui onde eu moro, que o restante da... da Ministerral, do 3º Terminal, do Antônio Bezerra, até pelo menos a ponte, a rodoviária, tivesse ciclovisse e ciclofaixa também.",Exercício e saúde;Custo \ É mais barato;Praticidade e conveniência,Entre 2 e 3 anos,Má qualidade das ciclovias; Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Sim,Não
+"Qual o seu nome e sua idade? Francisco, tenho uns 55 anos. Por que você escolheu. Andar de bicicleta e há quanto tempo mais ou menos utiliza? Ah, faz uns 40 anos. Você escolheu por quê? É porque é um meio. De transporte muito ágil, né? Entendi. Qual é o principal problema que você enfrenta ao andar de bicicleta em Fortaleza? É as buraqueiras aí da pista, as buraqueiras. Você sente alguma dificuldade a mais andando com a criança na bicicleta? É um pouco, né? Exatamente por causa dessas buraqueiras aí que existem. Você tem medo de sofrer algum acidente andando de bicicleta? Sim, com certeza. Já sofreu algum? Não, graças a Deus, não. Você gostaria de trocar bicicleta por algum outro meio de transporte? Não, eu gostaria de trocar por outra bicicleta mais melhor, né? Que é a minha. Entendi. Existe algum ângulo que você gostaria de ter uma ciclovia? Eu vou morar hoje.","Pessoa B: Qual o seu nome e sua idade?
+Pessoa A: Francisco, tenho uns 55 anos.
+Pessoa B: Por que você escolheu.
+Pessoa C: Andar de bicicleta e há quanto tempo mais ou menos utiliza?
+Pessoa A: Ah, faz uns 40 anos.
+Pessoa B: Você escolheu por quê? É porque é um meio.
+Pessoa A: De transporte muito ágil, né?
+Pessoa B: Entendi.
+Pessoa C: Qual é o principal problema que você enfrenta ao andar de bicicleta em Fortaleza?
+Pessoa A: É as buraqueiras aí da pista, as buraqueiras.
+Pessoa C: Você sente alguma dificuldade a mais andando com a criança na bicicleta?
+Pessoa A: É um pouco, né? Exatamente por causa dessas buraqueiras aí que existem.
+Pessoa C: Você tem medo de sofrer algum acidente andando de bicicleta?
+Pessoa A: Sim, com certeza.
+Pessoa C: Já sofreu algum?
+Pessoa A: Não, graças a Deus, não.
+Pessoa B: Você gostaria de trocar bicicleta por algum outro meio de transporte?
+Pessoa A: Não, eu gostaria de trocar por outra bicicleta mais melhor, né? Que é a minha.
+Pessoa B: Entendi. Existe algum ângulo que você gostaria de ter uma ciclovia?
+Pessoa A: Eu vou morar hoje.",00000010-AUDIO-2025-10-30-10-51-56,Francisco,55 anos,Masculino,"É porque é um meio. De transporte muito ágil, né?","há quanto tempo mais ou menos utiliza? Ah, faz uns 40 anos.","É as buraqueiras aí da pista, as buraqueiras.","Você tem medo de sofrer algum acidente andando de bicicleta? Sim, com certeza.","Não, graças a Deus, não.","Você gostaria de trocar bicicleta por algum outro meio de transporte? Não, eu gostaria de trocar por outra bicicleta mais melhor, né? Que é a minha.",Existe algum ângulo que você gostaria de ter uma ciclovia? Eu vou morar hoje.,Rapidez \ Tempo,Mais de 5 anos,Buracos na ciclovia,"Sim, tenho medo de acidentes",Não,"Sim, por uma bicicleta melhor"
+"Qual o seu nome e sua idade? Jusceline Rodrigues Oliveira, eu tenho 28 anos. Por que você escolheu andar de bicicleta e há quanto tempo mais ou menos utiliza? É bastante tempo, em torno de uns 10 anos andando de bicicleta. Por que você escolheu a bicicleta? Porque é um trajeto melhor de andar. Mais rápido. Qual o principal problema que você enfrenta andando de bicicleta? Que os carros e as... que querem passar por cima da gente. Não dá pra ficar respondo ao bicicleta. Por respeito, né? É. Você tem medo de sofrer acidentes andando no bicicleta? Sim. Já sofreu algum? Não. Você gostaria de trocar bicicleta por algum outro meio de transporte? Por a rapidez, às vezes sim, mas não trocaria, eu acho. Existe alguma rua que você gostaria de ver uma ciclovia? Sim. Podia até ser essa daqui, essa daqui era o detalhe do. Socoleta, da Popsicle. Entendi. Pronto, é só isso.","Pessoa A: Qual o seu nome e sua idade?
+Pessoa B: Jusceline Rodrigues Oliveira, eu tenho 28 anos.
+Pessoa A: Por que você escolheu andar de bicicleta e há quanto tempo mais ou menos utiliza?
+Pessoa B: É bastante tempo, em torno de uns 10 anos andando de bicicleta.
+Pessoa A: Por que você escolheu a bicicleta?
+Pessoa B: Porque é um trajeto melhor de andar.
+Pessoa A: Mais rápido. Qual o principal problema que você enfrenta andando de bicicleta?
+Pessoa B: Que os carros e as... que querem passar por cima da gente. Não dá pra ficar respondo ao bicicleta.
+Pessoa A: Por respeito, né?
+Pessoa B: É.
+Pessoa A: Você tem medo de sofrer acidentes andando no bicicleta?
+Pessoa B: Sim.
+Pessoa A: Já sofreu algum?
+Pessoa B: Não.
+Pessoa A: Você gostaria de trocar bicicleta por algum outro meio de transporte?
+Pessoa B: Por a rapidez, às vezes sim, mas não trocaria, eu acho.
+Pessoa A: Existe alguma rua que você gostaria de ver uma ciclovia?
+Pessoa B: Sim.
+Pessoa A: Podia até ser essa daqui, essa daqui era o detalhe do.
+Pessoa B: Socoleta, da Popsicle. Entendi.
+Pessoa A: Pronto, é só isso.",00000011-AUDIO-2025-10-30-10-54-34,Jusceline Rodrigues Oliveira,28 anos,Feminino,Porque é um trajeto melhor de andar. Mais rápido.,"É bastante tempo, em torno de uns 10 anos andando de bicicleta.","Que os carros e as... que querem passar por cima da gente. Não dá pra ficar respondo ao bicicleta. Por respeito, né?",Você tem medo de sofrer acidentes andando no bicicleta? Sim. Já sofreu algum? Não.,Já sofreu algum? Não.,"Você gostaria de trocar bicicleta por algum outro meio de transporte? Por a rapidez, às vezes sim, mas não trocaria, eu acho.","Existe alguma rua que você gostaria de ver uma ciclovia? Sim. Podia até ser essa daqui, essa daqui era o detalhe do. Socoleta, da Popsicle.",Rapidez \ Tempo; Preferência pessoal,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito; Risco de acidentes,"Sim, tenho medo de acidentes",Não,Não
+"Qual teu nome e idade? José Honorato. Tenho 35 anos. E por que tu escolheu andar de bicicleta e há quanto tempo tu utiliza? Eu usei desde o começo da minha vida. É bom andar de bicicleta, é um transporte mais sustentável. Qual o jogo principal, o problema que. Tu enfrenta andar de bicicleta em Fortaleza? O poder de respeito dos motores. E com. Relação ao transporte com criança, você tem dificuldades também? Não. Pra ele andar? Não. Ou transportando. Ela, com quem está aqui? Não. É um pouquinho incômodo, né? Mas é porque ele também tem, ele gosta de andar na bicicleta. E tu tem. Medo de sofrer algum acidente na bicicleta? Sempre tem, né? É perigoso. Já sofreu algum acidente? Acidente? Não. Nunca não. Graças a Deus, não. E tu gostaria de trocar a bicicleta pro outro meio de transporte? Se for pra trocar, eu procuraria por um carro, porque é mais seguro do que a rua. E existe aqui alguma rua em Fortaleza. Que você gostaria que tivesse uma ciclovia? Alguma específica aqui no bairro? Aqui tá muito bom de ciclovia, né? Mas. Essas ruas paralelas também, às vezes, não dá nem ter corrição, porque é muito estreita, né? Mas essa localização aqui era bom ter uma ciclovia, pelo menos. Tem colégio. Show de bola. Obrigadão.","Pessoa A: Qual teu nome e idade? José Honorato.
+Pessoa B: Tenho 35 anos. E por que tu escolheu andar de bicicleta e há quanto tempo tu utiliza?
+Pessoa A: Eu usei desde o começo da minha vida. É bom andar de bicicleta, é um transporte mais sustentável. Qual o jogo principal, o problema que.
+Pessoa B: Tu enfrenta andar de bicicleta em Fortaleza?
+Pessoa A: O poder de respeito dos motores.
+Pessoa A: E com.
+Pessoa B: Relação ao transporte com criança, você tem dificuldades também?
+Pessoa A: Não. Pra ele andar? Não. Ou transportando.
+Pessoa B: Ela, com quem está aqui?
+Pessoa A: Não. É um pouquinho incômodo, né? Mas é porque ele também tem, ele gosta de andar na bicicleta. E tu tem.
+Pessoa B: Medo de sofrer algum acidente na bicicleta?
+Pessoa A: Sempre tem, né? É perigoso.
+Pessoa B: Já sofreu algum acidente? Acidente?
+Pessoa A: Não. Nunca não. Graças a Deus, não.
+Pessoa B: E tu gostaria de trocar a bicicleta pro outro meio de transporte?
+Pessoa A: Se for pra trocar, eu procuraria por um carro, porque é mais seguro do que a rua. E existe aqui alguma rua em Fortaleza.
+Pessoa B: Que você gostaria que tivesse uma ciclovia? Alguma específica aqui no bairro?
+Pessoa A: Aqui tá muito bom de ciclovia, né?
+Pessoa B: Mas.
+Pessoa A: Essas ruas paralelas também, às vezes, não dá nem ter corrição, porque é muito estreita, né? Mas essa localização aqui era bom ter uma ciclovia, pelo menos. Tem colégio.
+Pessoa B: Show de bola.
+Pessoa A: Obrigadão.",00000012-AUDIO-2025-10-30-10-57-15,José Honorato,35 anos,Masculino,"Eu usei desde o começo da minha vida. É bom andar de bicicleta, é um transporte mais sustentável.",Eu usei desde o começo da minha vida.,O poder de respeito dos motores.,"E tu tem. Medo de sofrer algum acidente na bicicleta? Sempre tem, né? É perigoso. Já sofreu algum acidente? Acidente? Não. Nunca não. Graças a Deus, não.","Já sofreu algum acidente? Acidente? Não. Nunca não. Graças a Deus, não.","E tu gostaria de trocar a bicicleta pro outro meio de transporte? Se for pra trocar, eu procuraria por um carro, porque é mais seguro do que a rua.","E existe aqui alguma rua em Fortaleza. Que você gostaria que tivesse uma ciclovia? Alguma específica aqui no bairro? Aqui tá muito bom de ciclovia, né? Mas. Essas ruas paralelas também, às vezes, não dá nem ter corrição, porque é muito estreita, né? Mas essa localização aqui era bom ter uma ciclovia, pelo menos. Tem colégio.",Preferência pessoal,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Não,"Sim, por um carro"
+"Qual o seu nome e a sua idade? Meu nome é Carlos Alberto Guerra Silva. Fortaleza aqui, a cidade. Não, a sua idade. A idade? 56. Por que você escolheu andar de bicicleta e quanto tempo você utiliza? Eu preciso, né? Da bicicleta, né? Tem transporte ainda normal, moto, né? E já anda há muito tempo? Ando? Faz tempo. Qual o principal problema que você enfrenta andando de bicicleta aqui em Fortaleza? É o trânsito, né? Você anda muito aqui, é muito carro, vão pegar a menina aqui, é uma traceira da nada, entendeu? Entendi. Vão me pegar ela aqui. Quem vem de lá pra cá, tem que esperar os carros virem. A gente tá com o menino aqui em cima da bicicleta, né? Essa semana eu enfrentei também um cidadão, eu ia passando assim, vindo na minha direção certa. Aí o cara ficou debochando de mim, dizendo que eu tava... Era pra mim ter parado pra ele passar de bicicleta. Não, meu amigo, a estrada é pública, é larga. Não vem carro nem do lado. Aí ele queria discutir comigo, certo? Aí eu disse, não, eu não quero conversa com o senhor, não. O senhor vai na sua mão direta e eu tô aqui, eu tô de bicicleta, não tô de carro. O senhor ficar reclamando. Aí você entendeu, né? Aí eu fui sim, embora também fui. Mas aí acontece tipo assim, que... Deus o livre. Você não vê um carro, você tem que passar na... Parar pra... Passar, né? Bicicleta. Entendeu? Não, que quase bota em cima. Da no seu veículo, entendeu? Respeito, né? Dá também. Respeito. Você acha que é mais difícil ainda com criança? Na bicicleta? É, porque você vem trazendo ela pro colégio, né? É, carro desse lado... É um... É todo jeito, entendeu? Entendi. É bicicleta e escada. Aqui tem um quebra-moto na escada também, ó. Cheio de buraco, ó. Bem assim o carro aí, ó. Ia caindo aqui dentro, ó. Entendi. Esse bicho aí, ó. Bem assim, ó. O carro voltou pra trás. Você tem medo de sofrer algum acidente andando de bicicleta? Não, eu desde 11 anos que eu ando de bicicleta, entendeu? Mas tô com 56 anos. Você já sofreu algum acidente? Eu acho bom, mas eu quero trocar pra me pegar, eu quero comprar um transporte, uma moto. Entendi. Você já sofreu algum acidente andando de bicicleta? Oi? Já sofreu algum acidente andando de bicicleta? Não, graças a Deus, não. Você gostaria de trocar por outro meio de transporte? Melhor, né? Porque eu já estou ficando na idade, né? Entendi. E melhor porque, assim, no meu trabalho, suponho, sou pedreiro. Entendi. Quando o pessoal chama um trabalho num canto longe, eu não posso ir de bicicleta. Porque essa minha perna aqui, essa minha perna aqui, eu já levei uma queda. Se eu andar demais na bicicleta, Eu sinto muito dor e eu tomo muito medicamento pra ela pra mim começar a trabalhar, a viver, né? Porque ninguém ajuda ninguém, né? Vocês sabem como é hoje em dia, né? Hoje em dia o negócio tá difícil, o dinheiro tá difícil. Eu tenho que... Entendeu? E por último, é só se existe alguma rua em Fortaleza que você gostaria de ver uma ciclovia, ciclofaixa? A ciclovia é boa, a que botaram ali. Mas eu queria mais ainda que pelo menos quando você vê na sua mão. Certa, Aqui na rua da escola, por exemplo? Não tem, hein? Não tem essa que eu via. A estrada aqui é ruim. Você vê como é que tá a estrada aí. Não é só aqui não, tem canto de outros cantos aí. Lá em casa, que eu moro na Rio e eu tava aqui, em Jardim Guanabara, a minha rua é só na pedra. O asfalto tá feio demais, entendeu?","Pessoa A: Qual o seu nome e a sua idade?
+Pessoa B: Meu nome é Carlos Alberto Guerra Silva. Fortaleza aqui, a cidade.
+Pessoa A: Não, a sua idade.
+Pessoa B: A idade? 56.
+Pessoa A: Por que você escolheu andar de bicicleta e quanto tempo você utiliza?
+Pessoa B: Eu preciso, né? Da bicicleta, né? Tem transporte ainda normal, moto, né?
+Pessoa A: E já anda há muito tempo?
+Pessoa B: Ando? Faz tempo.
+Pessoa A: Qual o principal problema que você enfrenta andando de bicicleta aqui em Fortaleza?
+Pessoa B: É o trânsito, né? Você anda muito aqui, é muito carro, vão pegar a menina aqui, é uma traceira da nada, entendeu?
+Pessoa A: Entendi.
+Pessoa B: Vão me pegar ela aqui. Quem vem de lá pra cá, tem que esperar os carros virem. A gente tá com o menino aqui em cima da bicicleta, né? Essa semana eu enfrentei também um cidadão, eu ia passando assim, vindo na minha direção certa. Aí o cara ficou debochando de mim, dizendo que eu tava... Era pra mim ter parado pra ele passar de bicicleta. Não, meu amigo, a estrada é pública, é larga. Não vem carro nem do lado. Aí ele queria discutir comigo, certo? Aí eu disse, não, eu não quero conversa com o senhor, não. O senhor vai na sua mão direta e eu tô aqui, eu tô de bicicleta, não tô de carro. O senhor ficar reclamando. Aí você entendeu, né? Aí eu fui sim, embora também fui. Mas aí acontece tipo assim, que... Deus o livre. Você não vê um carro, você tem que passar na... Parar pra... Passar, né? Bicicleta. Entendeu? Não, que quase bota em cima. Da no seu veículo, entendeu?
+Pessoa A: Respeito, né?
+Pessoa B: Dá também. Respeito.
+Pessoa A: Você acha que é mais difícil ainda com criança? Na bicicleta?
+Pessoa B: É, porque você vem trazendo ela pro colégio, né? É, carro desse lado... É um... É todo jeito, entendeu?
+Pessoa A: Entendi.
+Pessoa B: É bicicleta e escada. Aqui tem um quebra-moto na escada também, ó. Cheio de buraco, ó. Bem assim o carro aí, ó. Ia caindo aqui dentro, ó. Entendi. Esse bicho aí, ó. Bem assim, ó. O carro voltou pra trás.
+Pessoa A: Você tem medo de sofrer algum acidente andando de bicicleta?
+Pessoa B: Não, eu desde 11 anos que eu ando de bicicleta, entendeu? Mas tô com 56 anos.
+Pessoa A: Você já sofreu algum acidente?
+Pessoa B: Eu acho bom, mas eu quero trocar pra me pegar, eu quero comprar um transporte, uma moto.
+Pessoa A: Entendi. Você já sofreu algum acidente andando de bicicleta?
+Pessoa B: Oi?
+Pessoa A: Já sofreu algum acidente andando de bicicleta?
+Pessoa B: Não, graças a Deus, não.
+Pessoa A: Você gostaria de trocar por outro meio de transporte?
+Pessoa B: Melhor, né? Porque eu já estou ficando na idade, né?
+Pessoa A: Entendi.
+Pessoa B: E melhor porque, assim, no meu trabalho, suponho, sou pedreiro.
+Pessoa A: Entendi.
+Pessoa B: Quando o pessoal chama um trabalho num canto longe, eu não posso ir de bicicleta. Porque essa minha perna aqui, essa minha perna aqui, eu já levei uma queda. Se eu andar demais na bicicleta, Eu sinto muito dor e eu tomo muito medicamento pra ela pra mim começar a trabalhar, a viver, né? Porque ninguém ajuda ninguém, né? Vocês sabem como é hoje em dia, né? Hoje em dia o negócio tá difícil, o dinheiro tá difícil. Eu tenho que... Entendeu?
+Pessoa A: E por último, é só se existe alguma rua em Fortaleza que você gostaria de ver uma ciclovia, ciclofaixa?
+Pessoa B: A ciclovia é boa, a que botaram ali. Mas eu queria mais ainda que pelo menos quando você vê na sua mão.
+Pessoa A: Certa, Aqui na rua da escola, por exemplo?
+Pessoa B: Não tem, hein? Não tem essa que eu via. A estrada aqui é ruim. Você vê como é que tá a estrada aí. Não é só aqui não, tem canto de outros cantos aí. Lá em casa, que eu moro na Rio e eu tava aqui, em Jardim Guanabara, a minha rua é só na pedra. O asfalto tá feio demais, entendeu?",00000013-AUDIO-2025-10-30-10-58-43,Carlos Alberto Guerra Silva,56,Masculino,"Eu preciso, né? Da bicicleta, né? Tem transporte ainda normal, moto, né?","Eu desde 11 anos que eu ando de bicicleta, entendeu? Mas tô com 56 anos.","Qual o principal problema que você enfrenta andando de bicicleta aqui em Fortaleza? É o trânsito, né?","Você tem medo de sofrer algum acidente andando de bicicleta? Não, eu desde 11 anos que eu ando de bicicleta, entendeu? Mas tô com 56 anos.","Já sofreu algum acidente andando de bicicleta? Oi? Já sofreu algum acidente andando de bicicleta? Não, graças a Deus, não.","Você gostaria de trocar por outro meio de transporte? Melhor, né? Porque eu já estou ficando na idade, né? Entendi. E melhor porque, assim, no meu trabalho, suponho, sou pedreiro. Entendi. Quando o pessoal chama um trabalho num canto longe, eu não posso ir de bicicleta. Porque essa minha perna aqui, essa minha perna aqui, eu já levei uma queda. Se eu andar demais na bicicleta, Eu sinto muito dor e eu tomo muito medicamento pra ela pra mim começar a trabalhar, a viver, né? Porque ninguém ajuda ninguém, né? Vocês sabem como é hoje em dia, né? Hoje em dia o negócio tá difícil, o dinheiro tá difícil. Eu tenho que... Entendeu?","A ciclovia é boa, a que botaram ali. Mas eu queria mais ainda que pelo menos quando você vê na sua mão. Certa, Aqui na rua da escola, por exemplo? Não tem, hein? Não tem essa que eu via. A estrada aqui é ruim. Você vê como é que tá a estrada aí. Não é só aqui não, tem canto de outros cantos aí. Lá em casa, que eu moro na Rio e eu tava aqui, em Jardim Guanabara, a minha rua é só na pedra. O asfalto tá feio demais, entendeu?",Única opção,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito,Não,Não,"Sim, mas não especifica qual meio"
+"Qual o seu nome e a sua idade? Luiz Matias de. Sousa, 53 anos. Por que você escolheu andar de bicicleta e quanto tempo faz? Ah, sempre andei. Porque eu acho mais. Saudável e às vezes até mais rápido os trajetos. Qual o principal problema que você encontra ao andar de bicicleta? Ultimamente está melhor, mas antes era muito. Sobre o trânsito, né? Era muito complicado, mas ultimamente, depois. Dessa ciclovia. Melhorou bastante. Você tem medo de sofrer acidente? Sim, já sofri até. Quer contar como foi? Você gostaria de trocar a bicicleta por outro meio de transporte? Sim, talvez, né? Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclofaixa ou ciclovica e ainda não tem? Na. Verdade por onde eu ando tem, né? Não. Sei informar sempre onde eu ando tem, né? Tá bom, obrigada!","Pessoa B: Qual o seu nome e a sua idade?
+Pessoa A: Luiz Matias de.
+Pessoa C: Sousa, 53 anos.
+Pessoa B: Por que você escolheu andar de bicicleta e quanto tempo faz?
+Pessoa C: Ah, sempre andei.
+Pessoa A: Porque eu acho mais.
+Pessoa C: Saudável e às vezes até mais rápido os trajetos.
+Pessoa B: Qual o principal problema que você encontra ao andar de bicicleta?
+Pessoa A: Ultimamente está melhor, mas antes era muito.
+Pessoa C: Sobre o trânsito, né?
+Pessoa A: Era muito complicado, mas ultimamente, depois.
+Pessoa C: Dessa ciclovia.
+Pessoa A: Melhorou bastante.
+Pessoa B: Você tem medo de sofrer acidente?
+Pessoa A: Sim, já sofri até.
+Pessoa B: Quer contar como foi? Você gostaria de trocar a bicicleta por outro meio de transporte? Sim, talvez, né? Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclofaixa ou ciclovica e ainda não tem? Na.
+Pessoa C: Verdade por onde eu ando tem, né? Não.
+Pessoa A: Sei informar sempre onde eu ando tem, né?
+Pessoa B: Tá bom, obrigada!",00000014-AUDIO-2025-10-30-11-01-03,Luiz Matias de Sousa,53 anos,Masculino,"Ah, sempre andei. Porque eu acho mais. Saudável e às vezes até mais rápido os trajetos.","Ah, sempre andei.","Qual o principal problema que você encontra ao andar de bicicleta? Ultimamente está melhor, mas antes era muito. Sobre o trânsito, né? Era muito complicado, mas ultimamente, depois. Dessa ciclovia. Melhorou bastante.","Você tem medo de sofrer acidente? Sim, já sofri até.","Sim, já sofri até.","Você gostaria de trocar a bicicleta por outro meio de transporte? Sim, talvez, né?","Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclofaixa ou ciclovica e ainda não tem? Na. Verdade por onde eu ando tem, né? Não. Sei informar sempre onde eu ando tem, né?",Exercício e saúde;Rapidez \ Tempo,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Sim,"Sim, mas não especifica qual meio"
+"E pronto! Qual o seu nome e sua idade? Carolina Maria E sua idade? 47 Por que você escolheu andar de bicicleta e quanto tempo você a utiliza? Ah, porque é mais rápido, né? Eu vou no mercantil, eu vou ali pedalar ali na barra, volto, né? Faço a caminhada, aí vou de bicicleta, volto. Faço a caminhada, aí volto pra casa. Olha, eu faço muita coisa na minha bicicleta. Vou até no Vapitboot já. Você tem medo de sofrer acidente andando de bicicleta? Tenho. Tenho por quê? Porque os carros, como é que a gente fala? Não respeitam a gente. Mas é carro do que é moto. Qual é o principal problema que você enfrenta? O respeito com a gente e as. Ruas que não são tão boas para andar também. Essa aqui pelo menos é a Maria. Você já sofreu algum acidente no último ano? Não, não. Você gostaria de trocar a bicicleta por algum outro transporte? Com certeza. Qual? Moto. Existe alguma rua que você gostaria de ter ciclovia? aqui no entorno. Não, isso aqui seria uma boa, essa rua aqui, por causa do colégio, né? Tem muito aluno que tem bicicleta, né? Ando, vai pro colégio de bicicleta, é o transporte. Ah, você tem filho que vem de bicicleta? Não, não, meus meninos já terminaram os. Estudos, graças a Deus. Entendi, entendi. É só isso, moça.","Pessoa B: E pronto! Qual o seu nome e sua idade?
+Pessoa A: Carolina Maria E sua idade?
+Pessoa B: 47 Por que você escolheu andar de bicicleta e quanto tempo você a utiliza? Ah, porque é mais rápido, né?
+Pessoa A: Eu vou no mercantil, eu vou ali pedalar ali na barra, volto, né? Faço a caminhada, aí vou de bicicleta, volto. Faço a caminhada, aí volto pra casa.
+Pessoa B: Olha, eu faço muita coisa na minha bicicleta. Vou até no Vapitboot já. Você tem medo de sofrer acidente andando de bicicleta?
+Pessoa A: Tenho. Tenho por quê? Porque os carros, como é que a gente fala? Não respeitam a gente. Mas é carro do que é moto.
+Pessoa B: Qual é o principal problema que você enfrenta?
+Pessoa B: O respeito com a gente e as.
+Pessoa A: Ruas que não são tão boas para andar também. Essa aqui pelo menos é a Maria.
+Pessoa B: Você já sofreu algum acidente no último ano?
+Pessoa A: Não, não.
+Pessoa B: Você gostaria de trocar a bicicleta por algum outro transporte?
+Pessoa A: Com certeza.
+Pessoa B: Qual?
+Pessoa A: Moto.
+Pessoa B: Existe alguma rua que você gostaria de ter ciclovia? aqui no entorno.
+Pessoa A: Não, isso aqui seria uma boa, essa rua aqui, por causa do colégio, né? Tem muito aluno que tem bicicleta, né? Ando, vai pro colégio de bicicleta, é o transporte.
+Pessoa B: Ah, você tem filho que vem de bicicleta?
+Pessoa A: Não, não, meus meninos já terminaram os.
+Pessoa B: Estudos, graças a Deus.
+Pessoa A: Entendi, entendi.
+Pessoa B: É só isso, moça.",00000015-AUDIO-2025-10-30-11-03-04,Carolina Maria,47,Feminino,"Ah, porque é mais rápido, né?",A duração de tempo em que a pessoa utiliza a bicicleta não é mencionada no texto.,O respeito com a gente e as. Ruas que não são tão boas para andar também.,"Você tem medo de sofrer acidente andando de bicicleta? Tenho. Tenho por quê? Porque os carros, como é que a gente fala? Não respeitam a gente. Mas é carro do que é moto. Qual é o principal problema que você enfrenta? O respeito com a gente e as. Ruas que não são tão boas para andar também. Essa aqui pelo menos é a Maria.","Você já sofreu algum acidente no último ano? Não, não.",Você gostaria de trocar a bicicleta por algum outro transporte? Com certeza. Qual? Moto.,"Existe alguma rua que você gostaria de ter ciclovia? aqui no entorno. Não, isso aqui seria uma boa, essa rua aqui, por causa do colégio, né? Tem muito aluno que tem bicicleta, né? Ando, vai pro colégio de bicicleta, é o transporte.",Rapidez \ Tempo,,Desrespeito dos motoristas ou Trânsito; Má qualidade das ciclovias,"Sim, tenho medo de acidentes",Não,"Sim, por uma moto"
+"Qual tua nome e idade, Thiago? Eu tenho 14 anos. Ou eu tenho 14, não. Eu tenho 16. Você escolheu. Andar de bicicleta e quanto tempo tu anda? Eu ando desde os meus 7 anos de idade, é o mesmo. E porque é a única coisa que. Eu tenho pra andar. E qual. O principal problema que tu. Enfrenta pra andar de bicicleta? Os caras não tem respeito. Os carros, nem moto, nem caminhão, nem nada. Tu tem medo de sofrer algum acidente andando de bicicleta? Medo tem, mas tem que enfrentar, né? Ok, precisamos. Você já sofreu algum acidente no último ano? Só queda mesmo. Só queda. Como foi a sua queda? Dando grau. Dando grau? Você. Gostaria de trocar a bicicleta por outro meio de transporte? Existe alguma rua e fortaleza que você gostaria que tivesse? Ciclovia, Ciclopátia? Só Misterral. Misterral. Show de bola. Valeu. Obrigadão, viu?","Pessoa A: Qual tua nome e idade, Thiago? Eu tenho 14 anos. Ou eu tenho 14, não. Eu tenho 16. Você escolheu.
+Pessoa B: Andar de bicicleta e quanto tempo tu anda?
+Pessoa A: Eu ando desde os meus 7 anos de idade, é o mesmo. E porque é a única coisa que.
+Pessoa B: Eu tenho pra andar.
+Pessoa A: E qual.
+Pessoa B: O principal problema que tu.
+Pessoa A: Enfrenta pra andar de bicicleta? Os caras não tem respeito. Os carros, nem moto, nem caminhão, nem nada.
+Pessoa B: Tu tem medo de sofrer algum acidente andando de bicicleta?
+Pessoa A: Medo tem, mas tem que enfrentar, né? Ok, precisamos.
+Pessoa B: Você já sofreu algum acidente no último ano?
+Pessoa A: Só queda mesmo. Só queda.
+Pessoa B: Como foi a sua queda?
+Pessoa A: Dando grau.
+Pessoa B: Dando grau?
+Pessoa A: Você.
+Pessoa B: Gostaria de trocar a bicicleta por outro meio de transporte?
+Pessoa B: Existe alguma rua e fortaleza que você gostaria que tivesse? Ciclovia, Ciclopátia?
+Pessoa A: Só Misterral.
+Pessoa B: Misterral. Show de bola. Valeu. Obrigadão, viu?",00000016-AUDIO-2025-10-30-11-05-55,Thiago,16,Masculino,E porque é a única coisa que. Eu tenho pra andar.,Eu ando desde os meus 7 anos de idade.,"Os caras não tem respeito. Os carros, nem moto, nem caminhão, nem nada.","Tu tem medo de sofrer algum acidente andando de bicicleta? Medo tem, mas tem que enfrentar, né?",Você já sofreu algum acidente no último ano? Só queda mesmo. Só queda.,Você. Gostaria de trocar a bicicleta por outro meio de transporte?,"Existe alguma rua e fortaleza que você gostaria que tivesse? Ciclovia, Ciclopátia? Só Misterral. Misterral. Show de bola. Valeu. Obrigadão, viu?",Única opção,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Sim,
+"Qual o seu nome e sua idade, por favor? Rebeca. Minha idade é 16. Por que você. Escolheu andar de bicicleta. E há quanto tempo utiliza? Porque é melhor pra mim não andar a pé. E eu. Utilizo desde criança. Qual é o principal problema que você enfrenta ao andar de bicicleta aqui em Fortaleza? Principal problema? Como assim? Se são as ruas, se são os carros, os motoristas. Ah, os motoristas. É? Você tem medo de sofrer acidente? Tenho. Já sofreu algum? Já. Quer contar como foi ou deixa pra lá? Eu quebrei meu braço na lua de bicicleta. Nossa. Isso foi atropelamento ou tu caiu sozinha? Foi a moto, bateu. No pneu, aí eu caí por cima do braço. Ô amiga, sinto muito. Você gostaria de trocar a bicicleta por outro meio de transporte no futuro? Sim. Qual? Tem? Um moto. Tá. Existe algum rumo em Fortaleza que tu gostaria que tivesse uma cifra baixa? Obrigada! De nada! Obrigada!","Pessoa A: Qual o seu nome e sua idade, por favor? Rebeca.
+Pessoa B: Minha idade é 16.
+Pessoa A: Por que você.
+Pessoa B: Escolheu andar de bicicleta.
+Pessoa A: E há quanto tempo utiliza?
+Pessoa B: Porque é melhor pra mim não andar a pé. E eu.
+Pessoa A: Utilizo desde criança. Qual é o principal problema que você enfrenta ao andar de bicicleta aqui em Fortaleza?
+Pessoa B: Principal problema? Como assim?
+Pessoa A: Se são as ruas, se são os carros, os motoristas. Ah, os motoristas. É? Você tem medo de sofrer acidente? Tenho. Já sofreu algum?
+Pessoa B: Já.
+Pessoa A: Quer contar como foi ou deixa pra lá? Eu quebrei meu braço na lua de bicicleta. Nossa. Isso foi atropelamento ou tu caiu sozinha? Foi a moto, bateu.
+Pessoa B: No pneu, aí eu caí por cima do braço.
+Pessoa A: Ô amiga, sinto muito. Você gostaria de trocar a bicicleta por outro meio de transporte no futuro? Sim. Qual? Tem? Um moto. Tá. Existe algum rumo em Fortaleza que tu gostaria que tivesse uma cifra baixa?
+Pessoa A: Obrigada! De nada! Obrigada!",00000017-AUDIO-2025-10-30-11-06-42,Rebeca,16,Feminino,Porque é melhor pra mim não andar a pé.,Utilizo desde criança.,"Qual é o principal problema que você enfrenta ao andar de bicicleta aqui em Fortaleza? Principal problema? Como assim? Se são as ruas, se são os carros, os motoristas. Ah, os motoristas.",É? Você tem medo de sofrer acidente? Tenho.,"Já sofreu algum? Já. Quer contar como foi ou deixa pra lá? Eu quebrei meu braço na lua de bicicleta. Nossa. Isso foi atropelamento ou tu caiu sozinha? Foi a moto, bateu. No pneu, aí eu caí por cima do braço.",Você gostaria de trocar a bicicleta por outro meio de transporte no futuro? Sim. Qual? Tem? Um moto.,Existe algum rumo em Fortaleza que tu gostaria que tivesse uma cifra baixa?,Praticidade e conveniência;Mais fácil,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Sim,"Sim, por uma moto"
+"Qual é o seu nome e sua idade? Marcos, 51 anos. Por que você escolheu andar de bicicleta e quanto tempo utiliza? Eu utilizo desde novo, né? Porque a saudade, hoje em dia, a gente vai ficando velho, a saúde vai indo-se embora. E o que a gente puder fazer de exercício pra melhorar a saúde, é bem-vindo, né? É, com certeza. Qual é o principal problema que você enfrenta ao andar de bicicleta? Tô nas pernas. A idade quando chega, aí o que tá melhorando as dores é tá pedalando. Entendi. E nas ruas, sinalização, alguma coisa assim? Não, até que tá bem, graças a Deus hoje tá muita faixa de bicicleta aí que tá ajudando muita gente que é ciclista. Você. Tem medo de sofrer acidente? Sim, sim, com certeza. Já sofreu algum? Já, mas graças a Deus não foi caso sério não, né? Foi só a mesma coisa. Foi onde eu sofri o acidente não tinha faixa de bicicleta, por isso que ocasionou o acidente, né? Sinto muito. Você gostaria de tracar a bicicleta por algum outro transporte? Se você dissesse que não, eu estaria mentindo. Um carro seria melhor, né? Mas já que não pode, vamos exercer a saúde na bicicleta mesmo. Justo. E existe alguma rua que você gostaria de ter ciclovia? Hoje. Em dia, as principais aqui no bairro aqui estão todas com ciclovia, está ótimo. Muito obrigada, viu?","Pessoa B: Qual é o seu nome e sua idade?
+Pessoa A: Marcos, 51 anos.
+Pessoa B: Por que você escolheu andar de bicicleta e quanto tempo utiliza?
+Pessoa A: Eu utilizo desde novo, né? Porque a saudade, hoje em dia, a gente vai ficando velho, a saúde vai indo-se embora. E o que a gente puder fazer de exercício pra melhorar a saúde, é bem-vindo, né?
+Pessoa B: É, com certeza. Qual é o principal problema que você enfrenta ao andar de bicicleta?
+Pessoa A: Tô nas pernas. A idade quando chega, aí o que tá melhorando as dores é tá pedalando.
+Pessoa B: Entendi. E nas ruas, sinalização, alguma coisa assim?
+Pessoa A: Não, até que tá bem, graças a Deus hoje tá muita faixa de bicicleta aí que tá ajudando muita gente que é ciclista. Você.
+Pessoa B: Tem medo de sofrer acidente?
+Pessoa A: Sim, sim, com certeza.
+Pessoa B: Já sofreu algum?
+Pessoa A: Já, mas graças a Deus não foi caso sério não, né? Foi só a mesma coisa. Foi onde eu sofri o acidente não tinha faixa de bicicleta, por isso que ocasionou o acidente, né?
+Pessoa B: Sinto muito. Você gostaria de tracar a bicicleta por algum outro transporte?
+Pessoa A: Se você dissesse que não, eu estaria mentindo. Um carro seria melhor, né? Mas já que não pode, vamos exercer a saúde na bicicleta mesmo.
+Pessoa B: Justo. E existe alguma rua que você gostaria de ter ciclovia? Hoje.
+Pessoa A: Em dia, as principais aqui no bairro aqui estão todas com ciclovia, está ótimo.
+Pessoa B: Muito obrigada, viu?",00000018-AUDIO-2025-10-30-11-19-23,Marcos,51 anos,Masculino,"Eu utilizo desde novo, né? Porque a saudade, hoje em dia, a gente vai ficando velho, a saúde vai indo-se embora. E o que a gente puder fazer de exercício pra melhorar a saúde, é bem-vindo, né?",Eu utilizo desde novo,"Qual é o principal problema que você enfrenta ao andar de bicicleta? Tô nas pernas. A idade quando chega, aí o que tá melhorando as dores é tá pedalando.","Você. Tem medo de sofrer acidente? Sim, sim, com certeza.","Já sofreu algum? Já, mas graças a Deus não foi caso sério não, né? Foi só a mesma coisa. Foi onde eu sofri o acidente não tinha faixa de bicicleta, por isso que ocasionou o acidente, né?","Você gostaria de tracar a bicicleta por algum outro transporte? Se você dissesse que não, eu estaria mentindo. Um carro seria melhor, né? Mas já que não pode, vamos exercer a saúde na bicicleta mesmo.","E existe alguma rua que você gostaria de ter ciclovia? Hoje. Em dia, as principais aqui no bairro aqui estão todas com ciclovia, está ótimo.",Exercício e saúde,Mais de 5 anos,Outros obstáculos na ciclovia,"Sim, tenho medo de acidentes",Sim,"Sim, por um carro"
+"Qual o seu nome e sua idade, por favor? Cícero Salles, 65 anos. Por que você escolheu andar de bicicleta e faz quanto tempo? Eu já está com mais de 20 anos que eu pedalo. O motivo é a saúde. A idade estava chegando e agora chegou de vez, né? Então a gente tem que cuidar dela, sei lá, né? E pedalar é um exercício ótimo. Eu aconselho a todos. Não é bom. Enfrenta sol. Enfrenta uma subida doida. Entendeu? Cansativo, suor. Entendeu? Mas é ótimo. Certo. O cardio agradece. Qual o principal problema que você enfrenta ao andar de bicicleta em Fortaleza? É... Invasão da ciclovia. Carro, moto... Motoqueiros. Certo. Invadem muito, mas é muito. Eu digo que eu pedalo muito. Eu acredito. Você tem medo de sofrer acidente? Tenho. Já sofreu algum? Já, já sofri um já. Uma travessia de uma parada obrigatória. A parada era obrigatória pro veículo ir passar, entendeu? E ele avançou. Ainda bem que não aconteceu nada. Você gostaria de trocar a bicicleta por outro meio de transporte? Na minha idade, não. Se fosse maior, vai aparecer, mas na minha idade, não. Prefiro a bike, é melhor. Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclovia, que ainda não tem? Ou alguma que está ruim, que iria melhorar? João Pessoa, Avenida. Não tem. É horrível pra chegar lá. Horrível, entendeu? Geralmente a gente escolhe mais a Zé Baixo, né? Que agora é outro nome. No meu tempo era Zé Baixo, agora é outro nome. Muito obrigada. Na disponha. Tamo junto. Valeu.","Pessoa A: Qual o seu nome e sua idade, por favor?
+Pessoa B: Cícero Salles, 65 anos.
+Pessoa A: Por que você escolheu andar de bicicleta e faz quanto tempo?
+Pessoa B: Eu já está com mais de 20 anos que eu pedalo. O motivo é a saúde. A idade estava chegando e agora chegou de vez, né? Então a gente tem que cuidar dela, sei lá, né? E pedalar é um exercício ótimo. Eu aconselho a todos. Não é bom. Enfrenta sol. Enfrenta uma subida doida. Entendeu? Cansativo, suor. Entendeu? Mas é ótimo.
+Pessoa A: Certo.
+Pessoa B: O cardio agradece.
+Pessoa A: Qual o principal problema que você enfrenta ao andar de bicicleta em Fortaleza?
+Pessoa B: É... Invasão da ciclovia. Carro, moto... Motoqueiros.
+Pessoa A: Certo.
+Pessoa B: Invadem muito, mas é muito. Eu digo que eu pedalo muito.
+Pessoa A: Eu acredito. Você tem medo de sofrer acidente?
+Pessoa B: Tenho.
+Pessoa A: Já sofreu algum?
+Pessoa B: Já, já sofri um já. Uma travessia de uma parada obrigatória. A parada era obrigatória pro veículo ir passar, entendeu? E ele avançou. Ainda bem que não aconteceu nada.
+Pessoa A: Você gostaria de trocar a bicicleta por outro meio de transporte?
+Pessoa B: Na minha idade, não. Se fosse maior, vai aparecer, mas na minha idade, não. Prefiro a bike, é melhor.
+Pessoa A: Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclovia, que ainda não tem? Ou alguma que está ruim, que iria melhorar?
+Pessoa B: João Pessoa, Avenida. Não tem. É horrível pra chegar lá. Horrível, entendeu? Geralmente a gente escolhe mais a Zé Baixo, né? Que agora é outro nome. No meu tempo era Zé Baixo, agora é outro nome.
+Pessoa A: Muito obrigada.
+Pessoa B: Na disponha. Tamo junto. Valeu.",00000019-AUDIO-2025-10-30-11-20-33,Cícero Salles,65 anos,Masculino,"O motivo é a saúde. A idade estava chegando e agora chegou de vez, né? Então a gente tem que cuidar dela, sei lá, né? E pedalar é um exercício ótimo. Eu aconselho a todos.",Eu já está com mais de 20 anos que eu pedalo.,"Qual o principal problema que você enfrenta ao andar de bicicleta em Fortaleza? É... Invasão da ciclovia. Carro, moto... Motoqueiros. Certo. Invadem muito, mas é muito.",Você tem medo de sofrer acidente? Tenho.,"Já, já sofri um já. Uma travessia de uma parada obrigatória. A parada era obrigatória pro veículo ir passar, entendeu? E ele avançou. Ainda bem que não aconteceu nada. (O texto confirma que ele sofreu um acidente, mas não especifica se foi no último ano.)","Você gostaria de trocar a bicicleta por outro meio de transporte? Na minha idade, não. Se fosse maior, vai aparecer, mas na minha idade, não. Prefiro a bike, é melhor.","Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclovia, que ainda não tem? Ou alguma que está ruim, que iria melhorar? João Pessoa, Avenida. Não tem. É horrível pra chegar lá. Horrível, entendeu? Geralmente a gente escolhe mais a Zé Baixo, né? Que agora é outro nome. No meu tempo era Zé Baixo, agora é outro nome.",Exercício e saúde,Mais de 5 anos,Invasão de carros ou motos na ciclovia; Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Sim,Não
+"Qual o teu nome, tua idade? Frank, 46 anos. E por que tu escolheu andar de bicicleta e quanto tempo tu utiliza? Rapaz, é o transporte que eu tô podendo comprar no momento. Quanto tempo tu anda de bicicleta? Já tá com 5 anos já. Qual o principal problema que tu enfrenta em andar de bicicleta? Rapaz, às vezes o trânsito. Os carros não respeitam a retidão. Com criança tu aumenta essa dificuldade? Oi? Com criança tu aumenta essa dificuldade? Não, não, não. Tranquilidade. Tem medo de sofrer algum acidente na linha de bicicleta? Rapaz, eu evito muito, né? A gente tem que... E já sofreu algum acidente nesse último ano? Não, graças a Deus, não. Nem pra tempo. Você gostaria de trocar a bicicleta pro outro meio? Eu vou comprar uma motinha, se Deus quiser. E tem alguma rua aqui em Fortaleza que você gostaria que tivesse na ciclovia, ciclofaixa? Oi? Aqui já tá quase tudo pavimentadozinho, né? Divertido, né? Tá. Perfeito. Valeu, obrigado.","Pessoa A: Qual o teu nome, tua idade?
+Pessoa B: Frank, 46 anos.
+Pessoa A: E por que tu escolheu andar de bicicleta e quanto tempo tu utiliza?
+Pessoa B: Rapaz, é o transporte que eu tô podendo comprar no momento.
+Pessoa A: Quanto tempo tu anda de bicicleta?
+Pessoa B: Já tá com 5 anos já.
+Pessoa A: Qual o principal problema que tu enfrenta em andar de bicicleta?
+Pessoa B: Rapaz, às vezes o trânsito. Os carros não respeitam a retidão.
+Pessoa A: Com criança tu aumenta essa dificuldade?
+Pessoa B: Oi?
+Pessoa A: Com criança tu aumenta essa dificuldade?
+Pessoa B: Não, não, não. Tranquilidade.
+Pessoa A: Tem medo de sofrer algum acidente na linha de bicicleta?
+Pessoa B: Rapaz, eu evito muito, né? A gente tem que...
+Pessoa A: E já sofreu algum acidente nesse último ano?
+Pessoa B: Não, graças a Deus, não. Nem pra tempo.
+Pessoa A: Você gostaria de trocar a bicicleta pro outro meio?
+Pessoa B: Eu vou comprar uma motinha, se Deus quiser.
+Pessoa A: E tem alguma rua aqui em Fortaleza que você gostaria que tivesse na ciclovia, ciclofaixa?
+Pessoa B: Oi? Aqui já tá quase tudo pavimentadozinho, né? Divertido, né?
+Pessoa A: Tá. Perfeito.
+Pessoa B: Valeu, obrigado.",00000020-AUDIO-2025-10-30-11-21-56,Frank,46 anos,Masculino,"Rapaz, é o transporte que eu tô podendo comprar no momento.",Já tá com 5 anos já.,"Rapaz, às vezes o trânsito. Os carros não respeitam a retidão.","Tem medo de sofrer algum acidente na linha de bicicleta? Rapaz, eu evito muito, né? A gente tem que...","E já sofreu algum acidente nesse último ano? Não, graças a Deus, não. Nem pra tempo.","Você gostaria de trocar a bicicleta pro outro meio? Eu vou comprar uma motinha, se Deus quiser.","E tem alguma rua aqui em Fortaleza que você gostaria que tivesse na ciclovia, ciclofaixa? Oi? Aqui já tá quase tudo pavimentadozinho, né? Divertido, né? Tá. Perfeito.",Custo \ É mais barato,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Não,"Sim, por uma moto"
+"Qual o seu nome e sua idade? Meu nome é Luana e eu tenho 36 anos. Por que você escolheu andar de bicicleta e quanto tempo utiliza, mais ou menos? Desde meus 12 anos. É bom porque dá pra ir mais longe, com mais segurança, né? A gente também tem a questão da saúde, né, que é importante. Qual o principal problema que você enfrenta ao andar de bicicleta? É a falta de consciência do povo que anda de carro, né? Que a gente não respeita, né? Não respeita a gente. Você. Anda com as crianças também na bicicleta? Você leva eles? Ando com o meu filho. Você acha que tem mais problemas andando com a criança? Mais obstáculos? Sim, mais obstáculos. Você tem medo de sofrer acidente andando de bicicleta? Tenho. Já sofreu algum? Só. Queda mesmo. Uma. Barroada, não entendo nada, graças a Deus. Você gostaria de trocar a bicicleta por algum outro transporte? Não, eu tenho medo. Tenho medo de andar de moto e carro, eu tenho. Existe alguma rua que você gostaria de ter uma ciclovia aqui pra onde você anda? Essa rua aí é a Major Assis, que é a rua que eu vejo. Que sempre tem acidente. A Major Assis é uma, inclusive de carro-moto, bicicleta também, muito. Tráfico de crianças vindo da escola. A Major Assis está a pré-exame. Nossa, é isso?","Pessoa A: Qual o seu nome e sua idade? Meu nome é Luana e eu tenho 36 anos. Por que você escolheu andar de bicicleta e quanto tempo utiliza, mais ou menos?
+Pessoa B: Desde meus 12 anos. É bom porque dá pra ir mais longe, com mais segurança, né? A gente também tem a questão da saúde, né, que é importante.
+Pessoa A: Qual o principal problema que você enfrenta ao andar de bicicleta?
+Pessoa B: É a falta de consciência do povo que anda de carro, né? Que a gente não respeita, né? Não respeita a gente. Você.
+Pessoa A: Anda com as crianças também na bicicleta? Você leva eles?
+Pessoa B: Ando com o meu filho.
+Pessoa A: Você acha que tem mais problemas andando com a criança? Mais obstáculos?
+Pessoa B: Sim, mais obstáculos.
+Pessoa A: Você tem medo de sofrer acidente andando de bicicleta? Tenho. Já sofreu algum? Só.
+Pessoa B: Queda mesmo. Uma.
+Pessoa A: Barroada, não entendo nada, graças a Deus. Você gostaria de trocar a bicicleta por algum outro transporte?
+Pessoa B: Não, eu tenho medo. Tenho medo de andar de moto e carro, eu tenho.
+Pessoa A: Existe alguma rua que você gostaria de ter uma ciclovia aqui pra onde você anda?
+Pessoa B: Essa rua aí é a Major Assis, que é a rua que eu vejo.
+Pessoa A: Que sempre tem acidente.
+Pessoa B: A Major Assis é uma, inclusive de carro-moto, bicicleta também, muito.
+Pessoa A: Tráfico de crianças vindo da escola.
+Pessoa B: A Major Assis está a pré-exame.
+Pessoa A: Nossa, é isso?",00000021-AUDIO-2025-10-30-11-24-43,Luana,36 anos,Feminino,"É bom porque dá pra ir mais longe, com mais segurança, né? A gente também tem a questão da saúde, né, que é importante.",Desde meus 12 anos.,"É a falta de consciência do povo que anda de carro, né? Que a gente não respeita, né? Não respeita a gente.",Você tem medo de sofrer acidente andando de bicicleta? Tenho.,"Já sofreu algum? Só. Queda mesmo. Uma. Barroada, não entendo nada, graças a Deus.","Você gostaria de trocar a bicicleta por algum outro transporte? Não, eu tenho medo. Tenho medo de andar de moto e carro, eu tenho.","Existe alguma rua que você gostaria de ter uma ciclovia aqui pra onde você anda? Essa rua aí é a Major Assis, que é a rua que eu vejo.",Segurança no trânsito; Exercício e saúde,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Sim,Não
+"Qual seu nome e sua idade? Antônio Patrício. 60 anos, fechado. Por que você escolheu andar de bicicleta e quanto tempo utiliza? A escolha não é obrigação, porque a gente faz transporte de entrega. Qual o principal problema que você enfrenta andando de bicicleta? Não. Não tem problema não. Pra mim, não acho. Às vezes é o trânsito mesmo. Os carros, às vezes, querem avançar pra Feliciel. A gente, na mão da gente, eles querem avançar. E... Entendi. Aí não fica ruim pra nós, né? Só isso, mas... Você tem... Entendi. Desculpa. E demais, tudo bem. Só isso mesmo. Você tem medo de sofrer acidente andando de bicicleta? Eu tô na minha razão, não tenho medo não. Tenho medo é do carro me pegar, eu tenho na minha razão. Entendeu? Só isso. Você já sofreu alguma? Não, graças a Deus não. Foi uma batidinha pouca. Só uma vez. Você gostaria de trocar bicicleta por outro meio de transporte? Não, porque. Só tem esse mesmo. Eu não sou habilitado. Eu sei dirigir carro, moto e tudo, mas não tenho habilitação aí. Entendi. Existe alguma rua que você gostaria de ter ciclovia? Aqui? Aqui? Ou em algum outro lugar também, em Fortaleza? Não, a nossa tem. Só não tem nessas fechadas aqui assim, não boto, né? Mas... Mas você gostaria que tivesse? Ah, era bom demais. Com certeza melhoraria demais pra gente. Pronto, é isso.","Pessoa B: Qual seu nome e sua idade?
+Pessoa A: Antônio Patrício. 60 anos, fechado.
+Pessoa B: Por que você escolheu andar de bicicleta e quanto tempo utiliza?
+Pessoa A: A escolha não é obrigação, porque a gente faz transporte de entrega.
+Pessoa B: Qual o principal problema que você enfrenta andando de bicicleta? Não.
+Pessoa A: Não tem problema não. Pra mim, não acho. Às vezes é o trânsito mesmo. Os carros, às vezes, querem avançar pra Feliciel. A gente, na mão da gente, eles querem avançar.
+Pessoa B: E... Entendi.
+Pessoa A: Aí não fica ruim pra nós, né? Só isso, mas...
+Pessoa B: Você tem... Entendi. Desculpa.
+Pessoa A: E demais, tudo bem. Só isso mesmo.
+Pessoa B: Você tem medo de sofrer acidente andando de bicicleta?
+Pessoa A: Eu tô na minha razão, não tenho medo não. Tenho medo é do carro me pegar, eu tenho na minha razão. Entendeu? Só isso.
+Pessoa B: Você já sofreu alguma?
+Pessoa A: Não, graças a Deus não. Foi uma batidinha pouca. Só uma vez.
+Pessoa B: Você gostaria de trocar bicicleta por outro meio de transporte? Não, porque.
+Pessoa A: Só tem esse mesmo. Eu não sou habilitado. Eu sei dirigir carro, moto e tudo, mas não tenho habilitação aí.
+Pessoa B: Entendi. Existe alguma rua que você gostaria de ter ciclovia?
+Pessoa A: Aqui?
+Pessoa B: Aqui? Ou em algum outro lugar também, em Fortaleza?
+Pessoa A: Não, a nossa tem. Só não tem nessas fechadas aqui assim, não boto, né? Mas...
+Pessoa B: Mas você gostaria que tivesse?
+Pessoa A: Ah, era bom demais. Com certeza melhoraria demais pra gente.
+Pessoa B: Pronto, é isso.",00000022-AUDIO-2025-10-30-11-27-10,Antônio Patrício,60 anos,Masculino,"A escolha não é obrigação, porque a gente faz transporte de entrega.","A informação sobre há quanto tempo a pessoa utiliza a bicicleta não está explícita no texto. O entrevistado responde o motivo da escolha, mas não o tempo de uso.","Às vezes é o trânsito mesmo. Os carros, às vezes, querem avançar pra Feliciel. A gente, na mão da gente, eles querem avançar. E... Entendi. Aí não fica ruim pra nós, né?","Você tem medo de sofrer acidente andando de bicicleta? Eu tô na minha razão, não tenho medo não. Tenho medo é do carro me pegar, eu tenho na minha razão. Entendeu? Só isso.","Você já sofreu alguma? Não, graças a Deus não. Foi uma batidinha pouca. Só uma vez.","Você gostaria de trocar bicicleta por outro meio de transporte? Não, porque. Só tem esse mesmo. Eu não sou habilitado. Eu sei dirigir carro, moto e tudo, mas não tenho habilitação aí.","Existe alguma rua que você gostaria de ter ciclovia? Aqui? Aqui? Ou em algum outro lugar também, em Fortaleza? Não, a nossa tem. Só não tem nessas fechadas aqui assim, não boto, né? Mas... Mas você gostaria que tivesse? Ah, era bom demais. Com certeza melhoraria demais pra gente.",Praticidade e conveniência,Não aplicável,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Sim,Não
+"Qual o teu nome e idade? Meu nome é Werner Estudiante de Barbosa, tenho 40 anos. E por que você escolheu andar de bicicleta e há quanto tempo tu utiliza? Faz mais de um ano, viu? Cagado. Cinco, dez anos? Mais. Mais? Qual o principal problema que tu enfrenta em Fortaleza? O pneu desenrola. Qual o principal problema que tu enfrenta a andar de bicicleta em Fortaleza? O trânsito, mano. O trânsito, os condutores. As negadas que atacam as pessoas aí. Tu tem medo de sofrer algum acidente? Já sofri. Já sofreu? Como foi? Eu fui atravessar a avenida e o cara jogou eu pro lado. Mas foi nesse último ano? Foi no meio do ano. E tu gosta de trocar bicicleta pra outro meio de transporte? Acho que não. Mais leve. Mais leve, mais rápido, né? E existe alguma rua de Fortaleza que eu tô no bairro que ele gostaria que tivesse uma ciclovias com a faixa? Aqui na Majorce já melhorou muito, né, mano? A avenida que é a principal é melhor, né? Que é onde os homens trabalham mais rápido. Show de bola. Foi isso pronto. Foi isso mesmo. Valeu. Valeu. Obrigadão, viu?","Pessoa A: Qual o teu nome e idade?
+Pessoa B: Meu nome é Werner Estudiante de Barbosa, tenho 40 anos.
+Pessoa A: E por que você escolheu andar de bicicleta e há quanto tempo tu utiliza?
+Pessoa B: Faz mais de um ano, viu? Cagado.
+Pessoa A: Cinco, dez anos?
+Pessoa B: Mais.
+Pessoa A: Mais? Qual o principal problema que tu enfrenta em Fortaleza?
+Pessoa B: O pneu desenrola.
+Pessoa A: Qual o principal problema que tu enfrenta a andar de bicicleta em Fortaleza?
+Pessoa B: O trânsito, mano.
+Pessoa A: O trânsito, os condutores.
+Pessoa B: As negadas que atacam as pessoas aí.
+Pessoa A: Tu tem medo de sofrer algum acidente?
+Pessoa B: Já sofri.
+Pessoa A: Já sofreu? Como foi?
+Pessoa B: Eu fui atravessar a avenida e o cara jogou eu pro lado.
+Pessoa A: Mas foi nesse último ano?
+Pessoa B: Foi no meio do ano.
+Pessoa A: E tu gosta de trocar bicicleta pra outro meio de transporte?
+Pessoa B: Acho que não. Mais leve.
+Pessoa A: Mais leve, mais rápido, né? E existe alguma rua de Fortaleza que eu tô no bairro que ele gostaria que tivesse uma ciclovias com a faixa?
+Pessoa B: Aqui na Majorce já melhorou muito, né, mano? A avenida que é a principal é melhor, né? Que é onde os homens trabalham mais rápido.
+Pessoa A: Show de bola. Foi isso pronto. Foi isso mesmo.
+Pessoa B: Valeu.
+Pessoa A: Valeu. Obrigadão, viu?",00000023-AUDIO-2025-10-30-11-28-05,Werner Estudiante de Barbosa,40 anos,Masculino,"Acho que não. Mais leve. Mais leve, mais rápido, né?","Faz mais de um ano, viu? Cagado. Cinco, dez anos? Mais. Mais?","O trânsito, mano. O trânsito, os condutores. As negadas que atacam as pessoas aí.",Tu tem medo de sofrer algum acidente? Já sofri.,"""Tu tem medo de sofrer algum acidente? Já sofri. Já sofreu? Como foi? Eu fui atravessar a avenida e o cara jogou eu pro lado. Mas foi nesse último ano? Foi no meio do ano.""","E tu gosta de trocar bicicleta pra outro meio de transporte? Acho que não. Mais leve. Mais leve, mais rápido, né?","Aqui na Majorce já melhorou muito, né, mano? A avenida que é a principal é melhor, né? Que é onde os homens trabalham mais rápido.",Rapidez \ Tempo,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito; Medo de assaltos,"Sim, tenho medo de acidentes",Sim,Não
+"Qual o seu nome e a sua idade? Meu nome é Manuel e eu tenho 11 anos. Tu anda de bicicleta há quanto tempo? Desde 2020. Por que que tu escolheu andar de bicicleta? Por causa que eu gosto muito de andar de bike. Ah, que legal. Tu tem medo de sofrer acidente? Não. Tu já sofreu algum acidente? Não. Tu gostaria de trocar a bicicleta por outro meio de transporte quando tu for adulto? Sim. Qual? É uma moto ou um carro. Legal. Aí tu gostaria que tivesse uma ciclofaixa na rua da tua casa? Uma ciclovia? Sim. Ou aqui na rua da escola? Queria muito. Certo. Tu lembra o nome dessas ruas? Lembro. Qual é o nome da rua da tua casa? Ceci Salgado. Certo. Muito obrigada. De nada.","Pessoa A: Qual o seu nome e a sua idade?
+Pessoa B: Meu nome é Manuel e eu tenho 11 anos.
+Pessoa A: Tu anda de bicicleta há quanto tempo?
+Pessoa B: Desde 2020.
+Pessoa A: Por que que tu escolheu andar de bicicleta?
+Pessoa B: Por causa que eu gosto muito de andar de bike. Ah, que legal.
+Pessoa A: Tu tem medo de sofrer acidente? Não. Tu já sofreu algum acidente?
+Pessoa B: Não.
+Pessoa A: Tu gostaria de trocar a bicicleta por outro meio de transporte quando tu for adulto?
+Pessoa B: Sim.
+Pessoa A: Qual?
+Pessoa B: É uma moto ou um carro.
+Pessoa A: Legal. Aí tu gostaria que tivesse uma ciclofaixa na rua da tua casa? Uma ciclovia?
+Pessoa B: Sim.
+Pessoa A: Ou aqui na rua da escola?
+Pessoa B: Queria muito.
+Pessoa A: Certo. Tu lembra o nome dessas ruas?
+Pessoa B: Lembro.
+Pessoa A: Qual é o nome da rua da tua casa?
+Pessoa B: Ceci Salgado.
+Pessoa A: Certo. Muito obrigada.
+Pessoa B: De nada.",00000024-AUDIO-2025-10-30-11-28-13,Manuel,11 anos,Masculino,Por causa que eu gosto muito de andar de bike.,Desde 2020.,O texto não menciona explicitamente qual o principal problema enfrentado ao andar de bicicleta em Fortaleza.,Tu tem medo de sofrer acidente? Não.,Tu já sofreu algum acidente? Não.,Tu gostaria de trocar a bicicleta por outro meio de transporte quando tu for adulto? Sim. Qual? É uma moto ou um carro. Legal.,Aí tu gostaria que tivesse uma ciclofaixa na rua da tua casa? Uma ciclovia? Sim. Ou aqui na rua da escola? Queria muito.,Preferência pessoal,Entre 3 e 5 anos,,Não,Não,"Sim, por uma moto ou por um carro"
+"Qual o seu nome e a sua idade? Juliana, eu tenho 31 anos. Por que você escolhe andar de bicicleta e a quanto tempo utiliza, mais ou menos? Porque pra mim é mais fácil, porque a minha vida é corrida, eu faço bolo, eu ajudo a minha vó, aí eu moro perto, aí é pra mim ir mais rápido, né? Qual o principal problema que você enfrenta andando de bicicleta? Ah, é as motos e os carros que querem passar por cima da gente. Você tem medo de sofrer acidente, Nando? Tenho, mas graças a Deus eu nunca sofri. Você gostaria de trocar por outro meio de transporte? Ah, se eu pudesse comprar um carro ou uma moto é melhor, porque eu tenho três crianças. Existe alguma rua que você gostaria de ver uma ciclovia aqui em Fortaleza? Assim como eu ando muito no bairro só, aí eu não tenho muito acesso às outras não, mas pelo bairro tá tudo tranquilo. Ótimo.","Pessoa A: Qual o seu nome e a sua idade? Juliana, eu tenho 31 anos. Por que você escolhe andar de bicicleta e a quanto tempo utiliza, mais ou menos? Porque pra mim é mais fácil, porque a minha vida é corrida, eu faço bolo, eu ajudo a minha vó, aí eu moro perto, aí é pra mim ir mais rápido, né? Qual o principal problema que você enfrenta andando de bicicleta? Ah, é as motos e os carros que querem passar por cima da gente. Você tem medo de sofrer acidente, Nando? Tenho, mas graças a Deus eu nunca sofri. Você gostaria de trocar por outro meio de transporte? Ah, se eu pudesse comprar um carro ou uma moto é melhor, porque eu tenho três crianças. Existe alguma rua que você gostaria de ver uma ciclovia aqui em Fortaleza? Assim como eu ando muito no bairro só, aí eu não tenho muito acesso às outras não, mas pelo bairro tá tudo tranquilo. Ótimo.",00000025-AUDIO-2025-10-30-11-30-00,Juliana,31 anos,Feminino,"Porque pra mim é mais fácil, porque a minha vida é corrida, eu faço bolo, eu ajudo a minha vó, aí eu moro perto, aí é pra mim ir mais rápido, né?","A pessoa não menciona há quanto tempo utiliza a bicicleta, apenas explica por que a escolheu: ""Porque pra mim é mais fácil, porque a minha vida é corrida, eu faço bolo, eu ajudo a minha vó, aí eu moro perto, aí é pra mim ir mais rápido, né?""","""Ah, é as motos e os carros que querem passar por cima da gente.""","Tenho, mas graças a Deus eu nunca sofri.","Tenho, mas graças a Deus eu nunca sofri.","Você gostaria de trocar por outro meio de transporte? Ah, se eu pudesse comprar um carro ou uma moto é melhor, porque eu tenho três crianças.","Assim como eu ando muito no bairro só, aí eu não tenho muito acesso às outras não, mas pelo bairro tá tudo tranquilo. Ótimo.",Rapidez \ Tempo; Mais fácil; Praticidade e conveniência,"Não se aplica, pois a pessoa não menciona há quanto tempo utiliza a bicicleta.",Desrespeito dos motoristas ou Trânsito; Risco de acidentes,"Sim, tenho medo de acidentes",Não,"Sim, por uma moto ou por um carro"
+"Faça o nome e sua idade, por favor. É Maria Lila, tenho 43 anos. Por que você escolheu andar de bicicleta? Porque eu ando de bicicleta desde criança. Eu sei que é perigoso, mas eu não estou nem aí. Eu ando e é mesmo. Porque eu não gosto de andar a pé. Porque para todo canto que a gente vai, para o mercantil é longe. Para todo canto é longe. Você tem medo de sofrer acidente? Mulher tenho, eu morro de medo. Mas eu boto na mão do senhor e ele vai na frente, né? Você já sofreu algum acidente? Já. Quer contar como foi? Deixa pra lá. Eu vinha, né, do mercantil, aí quando eu fui subir na bicicleta, aí o pneu entrou naquelas brechinhas ali, ó. Só que aquelas brechinhas da calçada, onde passa a água da chuva, não tinha essa proteção. Aí o pneu entrou dentro, eu caí, taquei a cara no chão. Quer ver a cara todinha? Você gostaria de trocar a bicicleta por outro meio de transporte? Não. Eu queria uma moto, mas não sei andar. Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclovia? Mulher, eu gostaria que tivesse mais ciclovias, né? Eu sei que tem muitas, só que não é suficiente, né? Pra proteger o ciclista, né? Que o ciclista é frágil, né? Pelo menos é frágil, porque tá numa bicicleta, né? A bicicleta é um desafio frágil, né? Eu já te perguntei qual o principal problema que você enfrenta a andar de bicicleta? Mulher, é a quantidade de carro que tem, né? Tem muito carro, muita moto, caminhão, fica morrendo de medo, mas... Está bom. Muito obrigada, bom dia. Eu que agradeço.","Pessoa B: Faça o nome e sua idade, por favor.
+Pessoa A: É Maria Lila, tenho 43 anos.
+Pessoa B: Por que você escolheu andar de bicicleta?
+Pessoa A: Porque eu ando de bicicleta desde criança. Eu sei que é perigoso, mas eu não estou nem aí. Eu ando e é mesmo. Porque eu não gosto de andar a pé. Porque para todo canto que a gente vai, para o mercantil é longe. Para todo canto é longe.
+Pessoa B: Você tem medo de sofrer acidente?
+Pessoa A: Mulher tenho, eu morro de medo. Mas eu boto na mão do senhor e ele vai na frente, né?
+Pessoa B: Você já sofreu algum acidente?
+Pessoa A: Já.
+Pessoa B: Quer contar como foi? Deixa pra lá.
+Pessoa A: Eu vinha, né, do mercantil, aí quando eu fui subir na bicicleta, aí o pneu entrou naquelas brechinhas ali, ó. Só que aquelas brechinhas da calçada, onde passa a água da chuva, não tinha essa proteção. Aí o pneu entrou dentro, eu caí, taquei a cara no chão. Quer ver a cara todinha?
+Pessoa B: Você gostaria de trocar a bicicleta por outro meio de transporte?
+Pessoa A: Não. Eu queria uma moto, mas não sei andar.
+Pessoa B: Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclovia?
+Pessoa A: Mulher, eu gostaria que tivesse mais ciclovias, né? Eu sei que tem muitas, só que não é suficiente, né? Pra proteger o ciclista, né? Que o ciclista é frágil, né? Pelo menos é frágil, porque tá numa bicicleta, né? A bicicleta é um desafio frágil, né?
+Pessoa B: Eu já te perguntei qual o principal problema que você enfrenta a andar de bicicleta?
+Pessoa A: Mulher, é a quantidade de carro que tem, né? Tem muito carro, muita moto, caminhão, fica morrendo de medo, mas... Está bom. Muito obrigada, bom dia. Eu que agradeço.",00000026-AUDIO-2025-10-30-11-32-17,Maria Lila,43 anos,Feminino,"Porque eu ando de bicicleta desde criança. Eu sei que é perigoso, mas eu não estou nem aí. Eu ando e é mesmo. Porque eu não gosto de andar a pé. Porque para todo canto que a gente vai, para o mercantil é longe. Para todo canto é longe.",Porque eu ando de bicicleta desde criança.,"é a quantidade de carro que tem, né? Tem muito carro, muita moto, caminhão, fica morrendo de medo.","Você tem medo de sofrer acidente? Mulher tenho, eu morro de medo. Mas eu boto na mão do senhor e ele vai na frente, né?","Você já sofreu algum acidente? Já. Quer contar como foi? Deixa pra lá. Eu vinha, né, do mercantil, aí quando eu fui subir na bicicleta, aí o pneu entrou naquelas brechinhas ali, ó. Só que aquelas brechinhas da calçada, onde passa a água da chuva, não tinha essa proteção. Aí o pneu entrou dentro, eu caí, taquei a cara no chão. Quer ver a cara todinha?","Você gostaria de trocar a bicicleta por outro meio de transporte? Não. Eu queria uma moto, mas não sei andar.","Mulher, eu gostaria que tivesse mais ciclovias, né? Eu sei que tem muitas, só que não é suficiente, né? Pra proteger o ciclista, né? Que o ciclista é frágil, né? Pelo menos é frágil, porque tá numa bicicleta, né? A bicicleta é um desafio frágil, né?",Praticidade e conveniência; Preferência pessoal,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito; Risco de acidentes,"Sim, tenho medo de acidentes",Sim,Não
+"Qual é o seu nome e sua idade? É Francisco. Minha idade é 65 anos. Por que você escolhe andar de bicicleta e quanto tempo utiliza? Eu acho bom andar de bicicleta. Quanto tempo você usa, mais ou menos? Eu uso mais de 20 minutos. Qual é o principal problema que você enfrenta andando de bicicleta? O problema? Talvez a gente se enfrente a cansaço, viu? A rua mesmo? A rua, a rua, a passar e quando a gente vai passar. Você tem medo de sofrer acidente no bicicleta? Aconteceu comigo, cara. Aqui? Por aqui? Não, foi na Mosaico Centro. Você gostaria de trocar bicicleta por outro transporte? Não, não, não. E existe alguma rua que você gostaria que tivesse ciclovia? Ah, tem rua que ciclovia aí na... Você gostaria de ir a mais algum. Lugar aqui que você anda? Gostaria.","Pessoa B: Qual é o seu nome e sua idade?
+Pessoa A: É Francisco. Minha idade é 65 anos.
+Pessoa B: Por que você escolhe andar de bicicleta e quanto tempo utiliza?
+Pessoa A: Eu acho bom andar de bicicleta.
+Pessoa B: Quanto tempo você usa, mais ou menos?
+Pessoa A: Eu uso mais de 20 minutos.
+Pessoa B: Qual é o principal problema que você enfrenta andando de bicicleta?
+Pessoa A: O problema? Talvez a gente se enfrente a cansaço, viu?
+Pessoa B: A rua mesmo?
+Pessoa A: A rua, a rua, a passar e quando a gente vai passar.
+Pessoa B: Você tem medo de sofrer acidente no bicicleta?
+Pessoa A: Aconteceu comigo, cara.
+Pessoa B: Aqui? Por aqui?
+Pessoa A: Não, foi na Mosaico Centro.
+Pessoa B: Você gostaria de trocar bicicleta por outro transporte?
+Pessoa A: Não, não, não.
+Pessoa B: E existe alguma rua que você gostaria que tivesse ciclovia?
+Pessoa A: Ah, tem rua que ciclovia aí na... Você gostaria de ir a mais algum.
+Pessoa B: Lugar aqui que você anda?
+Pessoa A: Gostaria.",00000027-AUDIO-2025-10-30-11-32-39,Francisco,65 anos,Masculino,Eu acho bom andar de bicicleta.,"Quanto tempo você usa, mais ou menos? Eu uso mais de 20 minutos.","O problema? Talvez a gente se enfrente a cansaço, viu? A rua mesmo? A rua, a rua, a passar e quando a gente vai passar.","Você tem medo de sofrer acidente no bicicleta? Aconteceu comigo, cara. Aqui? Por aqui? Não, foi na Mosaico Centro.","Você tem medo de sofrer acidente no bicicleta? Aconteceu comigo, cara. Aqui? Por aqui? Não, foi na Mosaico Centro.","Você gostaria de trocar bicicleta por outro transporte? Não, não, não.","E existe alguma rua que você gostaria que tivesse ciclovia? Ah, tem rua que ciclovia aí na...",Preferência pessoal,,Calor ou clima; Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Sim,Não
+"Aí, qual tua nome e idade? É... Francisco Guilherme da Silva Júnior, 59 anos. Quase 60, hein? É. Por que que tu escolheu andar de bicicleta e há quanto tempo o senhor utiliza? Rapaz, tem. 58 anos. E... consegue ver algum problema que... pra enfrentar andar de bicicleta de Fortaleza? Rapaz, não. Só ali na... Na Misterral ali que não tem ciclofia, né? Alí da Doutora Bezerra pra... pro rumo da Califórnia que não tem, né? Tem, tem. O senhor tem medo de sofrer acidente andando de bicicleta? Quase tenho. E sofreu algum acidente no último ano? Não, graças a Deus não. E gostaria de trocar de bicicleta por outro meio de transporte? Rapaz, se eu pudesse eu gostaria. E existe alguma rua aqui em Fortaleza, Dubai, que o senhor gostaria que tivesse uma ciclovia, ciclofaixa? Rapaz... Pra mim, se todos estivessem, era melhor. Perfeito!","Pessoa A: Aí, qual tua nome e idade?
+Pessoa B: É... Francisco Guilherme da Silva Júnior, 59 anos.
+Pessoa A: Quase 60, hein?
+Pessoa B: É.
+Pessoa A: Por que que tu escolheu andar de bicicleta e há quanto tempo o senhor utiliza?
+Pessoa B: Rapaz, tem.
+Pessoa A: 58 anos.
+Pessoa A: E... consegue ver algum problema que... pra enfrentar andar de bicicleta de Fortaleza?
+Pessoa B: Rapaz, não. Só ali na... Na Misterral ali que não tem ciclofia, né? Alí da Doutora Bezerra pra... pro rumo da Califórnia que não tem, né?
+Pessoa A: Tem, tem. O senhor tem medo de sofrer acidente andando de bicicleta?
+Pessoa B: Quase tenho.
+Pessoa A: E sofreu algum acidente no último ano?
+Pessoa B: Não, graças a Deus não.
+Pessoa A: E gostaria de trocar de bicicleta por outro meio de transporte?
+Pessoa B: Rapaz, se eu pudesse eu gostaria.
+Pessoa A: E existe alguma rua aqui em Fortaleza, Dubai, que o senhor gostaria que tivesse uma ciclovia, ciclofaixa?
+Pessoa B: Rapaz... Pra mim, se todos estivessem, era melhor.
+Pessoa A: Perfeito!",00000028-AUDIO-2025-10-30-11-33-27,Francisco Guilherme da Silva Júnior,59 anos,Masculino,"O motivo pelo qual a pessoa escolheu andar de bicicleta não está explícito no trecho. A resposta que segue a pergunta sobre a escolha e o tempo de uso é apenas sobre o tempo de uso: ""Rapaz, tem. 58 anos.""","Rapaz, tem. 58 anos.","Só ali na... Na Misterral ali que não tem ciclofia, né? Alí da Doutora Bezerra pra... pro rumo da Califórnia que não tem, né? Tem, tem.",O senhor tem medo de sofrer acidente andando de bicicleta? Quase tenho.,"E sofreu algum acidente no último ano? Não, graças a Deus não.","Rapaz, se eu pudesse eu gostaria.","E existe alguma rua aqui em Fortaleza, Dubai, que o senhor gostaria que tivesse uma ciclovia, ciclofaixa? Rapaz... Pra mim, se todos estivessem, era melhor.",,Mais de 5 anos,Falta de ciclovias,"Sim, tenho medo de acidentes",Não,"Sim, mas não especifica qual meio"
+"Qual o seu nome e sua idade? Meu nome é Márcio Antônio Silva da Silva, 60 anos. Por que você escolheu andar de bicicleta e há quanto tempo utiliza? É porque não tenho carro nenhuma mota. Qual é o principal problema que você enfrenta ao andar? Rapaz, é porque é bem distante e é mais rápido também, né? É o seu trabalho. Mas problema, sim? Não, problema nenhum. Você. Tem medo de sofrer acidente? Rapaz, nós todos temos, mas só... é Deus aí, né? Pronto, você já sofreu algum acidente? Já. Quer contar como foi ou deixa pra lá? Não, deixa quieto, é muito triste. Tá certo, tá certo. Terri minha esposa, acabou disso. Ai meu Deus, eu sinto muito. Você gostaria de trocar a bicicleta por outro meio de transporte? Rapaz, no total eu gostaria, mas falta só o dinheiro, né? Sei. Existe alguma rua em Fortaleza que você gostaria que tivesse uma cicloquagem, uma ciclovia? Que ainda não tem? Ou uma que tá ruim e que podia melhorar? Rapaz, só lá em cima lá, lá na... Não sei o que chama, Marujali. Muito obrigada! Bom dia!","Pessoa A: Qual o seu nome e sua idade?
+Pessoa B: Meu nome é Márcio Antônio Silva da Silva, 60 anos.
+Pessoa A: Por que você escolheu andar de bicicleta e há quanto tempo utiliza?
+Pessoa B: É porque não tenho carro nenhuma mota.
+Pessoa A: Qual é o principal problema que você enfrenta ao andar?
+Pessoa B: Rapaz, é porque é bem distante e é mais rápido também, né? É o seu trabalho.
+Pessoa A: Mas problema, sim?
+Pessoa B: Não, problema nenhum. Você.
+Pessoa A: Tem medo de sofrer acidente?
+Pessoa B: Rapaz, nós todos temos, mas só... é Deus aí, né?
+Pessoa A: Pronto, você já sofreu algum acidente?
+Pessoa B: Já.
+Pessoa A: Quer contar como foi ou deixa pra lá?
+Pessoa B: Não, deixa quieto, é muito triste.
+Pessoa A: Tá certo, tá certo.
+Pessoa B: Terri minha esposa, acabou disso.
+Pessoa A: Ai meu Deus, eu sinto muito. Você gostaria de trocar a bicicleta por outro meio de transporte?
+Pessoa B: Rapaz, no total eu gostaria, mas falta só o dinheiro, né?
+Pessoa A: Sei. Existe alguma rua em Fortaleza que você gostaria que tivesse uma cicloquagem, uma ciclovia? Que ainda não tem? Ou uma que tá ruim e que podia melhorar?
+Pessoa B: Rapaz, só lá em cima lá, lá na... Não sei o que chama, Marujali.
+Pessoa A: Muito obrigada!
+Pessoa B: Bom dia!",00000029-AUDIO-2025-10-30-11-34-25,Márcio Antônio Silva da Silva,60 anos,Masculino,"É porque não tenho carro nenhuma mota. Qual é o principal problema que você enfrenta ao andar? Rapaz, é porque é bem distante e é mais rápido também, né? É o seu trabalho.",A informação de há quanto tempo a pessoa utiliza a bicicleta não é mencionada no texto.,"Rapaz, é porque é bem distante e é mais rápido também, né? É o seu trabalho. Mas problema, sim? Não, problema nenhum.","Você. Tem medo de sofrer acidente? Rapaz, nós todos temos, mas só... é Deus aí, né?","Pronto, você já sofreu algum acidente? Já. Quer contar como foi ou deixa pra lá? Não, deixa quieto, é muito triste. Tá certo, tá certo. Terri minha esposa, acabou disso. Ai meu Deus, eu sinto muito.","Você gostaria de trocar a bicicleta por outro meio de transporte? Rapaz, no total eu gostaria, mas falta só o dinheiro, né? Sei.","Rapaz, só lá em cima lá, lá na... Não sei o que chama, Marujali.",Única opção; Rapidez \ Tempo,,,"Sim, tenho medo de acidentes",Sim,"Sim, mas não especifica qual meio"
+"Qual é o seu nome e sua idade? Meu nome é Thiago Barbosa da Silva. Qual a sua idade? 18. Por que você escolheu andar de bicicleta e quanto tempo usa? Essa bicicleta não é minha, não é emprestada. Mas você escolheu por quê? Por graça do locomotor? Por lazer? Mais pra ir na minha casa. Entendi. Qual o principal problema que você vê andando de bicicleta nas ruas? É, os carros não respeitam, né? Sim. Você tem medo de sofrer acidente? Tenho. Já sofreu algum? Não. Você gostaria de trocar a bicicleta por algum outro transporte? Sim. Qual? Moto. Existe alguma rua que você gostaria de ter uma ciclovia? Aqui, por onde você anda, ou em outro lugar? Por aqui mesmo. Pronto.","Pessoa A: Qual é o seu nome e sua idade?
+Pessoa B: Meu nome é Thiago Barbosa da Silva.
+Pessoa A: Qual a sua idade?
+Pessoa B: 18.
+Pessoa A: Por que você escolheu andar de bicicleta e quanto tempo usa?
+Pessoa B: Essa bicicleta não é minha, não é emprestada.
+Pessoa A: Mas você escolheu por quê? Por graça do locomotor? Por lazer?
+Pessoa B: Mais pra ir na minha casa.
+Pessoa A: Entendi. Qual o principal problema que você vê andando de bicicleta nas ruas?
+Pessoa B: É, os carros não respeitam, né?
+Pessoa A: Sim. Você tem medo de sofrer acidente?
+Pessoa B: Tenho.
+Pessoa A: Já sofreu algum?
+Pessoa B: Não.
+Pessoa A: Você gostaria de trocar a bicicleta por algum outro transporte?
+Pessoa B: Sim.
+Pessoa A: Qual?
+Pessoa B: Moto.
+Pessoa A: Existe alguma rua que você gostaria de ter uma ciclovia? Aqui, por onde você anda, ou em outro lugar?
+Pessoa B: Por aqui mesmo. Pronto.",00000030-AUDIO-2025-10-30-11-39-52,Thiago Barbosa da Silva,18,Masculino,Mais pra ir na minha casa.,"Essa bicicleta não é minha, não é emprestada.","É, os carros não respeitam, né? Sim.",Você tem medo de sofrer acidente? Tenho.,Já sofreu algum? Não.,Você gostaria de trocar a bicicleta por algum outro transporte? Sim. Qual? Moto.,"Existe alguma rua que você gostaria de ter uma ciclovia? Aqui, por onde você anda, ou em outro lugar? Por aqui mesmo. Pronto.",Praticidade e conveniência,,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Não,"Sim, por uma moto"
+"Qual o seu nome e a sua idade, por favor? Sou Fiat, tenho 12 anos. Show! Por que você escolheu andar de bicicleta e faz quanto tempo? Ah, tipo, acho que já faz uns dois, três anos. É porque eu gosto, sabe? E eu também ajudo minha mãe, aí eu sempre vou com ela. Ai, que legal! Qual o principal problema que tu enfrenta ao andar de bicicleta? É porque é muito carro, moto, aí às vezes é um. Pouco difícil pra mim. Sim. Você tem medo de sofrer acidente? É, tenho. Já sofreu algum? Não. Sei. Você gostaria de trocar a bicicleta por outro meio de transporte. Quando crescer? Ah, por uma. Moto, assim. Massa. Existe alguma rua que você gostaria que tivesse uma ciclofaixa? Fortaleza? Tipo assim, nessa rua que o pessoal vai embora pra escola, que é mais perigoso, que passa muito carro. Tá certo. Muito obrigada. Obrigada.","Pessoa A: Qual o seu nome e a sua idade, por favor?
+Pessoa B: Sou Fiat, tenho 12 anos.
+Pessoa A: Show! Por que você escolheu andar de bicicleta e faz quanto tempo?
+Pessoa B: Ah, tipo, acho que já faz uns dois, três anos. É porque eu gosto, sabe? E eu também ajudo minha mãe, aí eu sempre vou com ela.
+Pessoa A: Ai, que legal! Qual o principal problema que tu enfrenta ao andar de bicicleta?
+Pessoa B: É porque é muito carro, moto, aí às vezes é um.
+Pessoa A: Pouco difícil pra mim.
+Pessoa B: Sim.
+Pessoa A: Você tem medo de sofrer acidente? É, tenho. Já sofreu algum?
+Pessoa B: Não.
+Pessoa A: Sei. Você gostaria de trocar a bicicleta por outro meio de transporte.
+Pessoa B: Quando crescer?
+Pessoa A: Ah, por uma.
+Pessoa B: Moto, assim.
+Pessoa A: Massa. Existe alguma rua que você gostaria que tivesse uma ciclofaixa? Fortaleza?
+Pessoa B: Tipo assim, nessa rua que o pessoal vai embora pra escola, que é mais perigoso, que passa muito carro.
+Pessoa A: Tá certo. Muito obrigada.
+Pessoa B: Obrigada.",00000031-AUDIO-2025-10-30-11-39-56,Fiat,12 anos,Masculino,"É porque eu gosto, sabe? E eu também ajudo minha mãe, aí eu sempre vou com ela.","Ah, tipo, acho que já faz uns dois, três anos.","É porque é muito carro, moto, aí às vezes é um. Pouco difícil pra mim. Sim.","Você tem medo de sofrer acidente? É, tenho. Já sofreu algum? Não.",Já sofreu algum? Não.,"Você gostaria de trocar a bicicleta por outro meio de transporte. Quando crescer? Ah, por uma. Moto, assim. Massa.","Existe alguma rua que você gostaria que tivesse uma ciclofaixa? Fortaleza? Tipo assim, nessa rua que o pessoal vai embora pra escola, que é mais perigoso, que passa muito carro.",Preferência pessoal,Entre 2 e 3 anos,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Não,"Sim, por uma moto"
+"Qual a sua idade, por favor? Francisca D'Ayrton Lares de Mello, tenho 47 anos. Por que você escolheu andar de bicicleta e faz quanto tempo? Desde pequeno. Qual o principal problema que você encontra ao andar de bicicleta em Fortaleza? É só o trânsito mesmo. O carro, o moto, as coisas. Não respeito. Você tem medo de sofrer acidente? Lógico. Quem é que não tem? Já sofreu algum? Não. Você gostaria de trocar a bicicleta por outro meio de transporte? Pra trabalho, sim. Certo. Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclofaixa? Que ainda não tem? Não, não me recordo agora, não. Tá bom, muito obrigada.","Pessoa A: Qual a sua idade, por favor?
+Pessoa B: Francisca D'Ayrton Lares de Mello, tenho 47 anos.
+Pessoa A: Por que você escolheu andar de bicicleta e faz quanto tempo?
+Pessoa B: Desde pequeno.
+Pessoa A: Qual o principal problema que você encontra ao andar de bicicleta em Fortaleza?
+Pessoa B: É só o trânsito mesmo. O carro, o moto, as coisas. Não respeito.
+Pessoa A: Você tem medo de sofrer acidente?
+Pessoa B: Lógico. Quem é que não tem?
+Pessoa A: Já sofreu algum?
+Pessoa B: Não.
+Pessoa A: Você gostaria de trocar a bicicleta por outro meio de transporte?
+Pessoa B: Pra trabalho, sim.
+Pessoa A: Certo. Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclofaixa? Que ainda não tem?
+Pessoa B: Não, não me recordo agora, não.
+Pessoa A: Tá bom, muito obrigada.",00000032-AUDIO-2025-10-30-11-47-17,Francisca D'Ayrton Lares de Mello,47 anos,Feminino,Desde pequeno.,Desde pequeno.,"É só o trânsito mesmo. O carro, o moto, as coisas. Não respeito.",Você tem medo de sofrer acidente? Lógico. Quem é que não tem?,Já sofreu algum? Não.,"Você gostaria de trocar a bicicleta por outro meio de transporte? Pra trabalho, sim.","Existe alguma rua em Fortaleza que você gostaria que tivesse uma ciclofaixa? Que ainda não tem? Não, não me recordo agora, não.",Preferência pessoal,Mais de 5 anos,Desrespeito dos motoristas ou Trânsito,"Sim, tenho medo de acidentes",Não,"Sim, mas não especifica qual meio"
+"Qual o seu nome e sua idade, por favor? José Alberto da Silva, tenho 66 anos. Por que que você escolheu andar de bicicleta e faz quanto tempo? Rapaz, é minha vida, isso aqui é bicicleta. Eu tenho essa daqui e mais cinco. Eita! É, tudo monarca. Qual o principal problema? Opa, desculpa. Vai, pode falar. O Roberto Cláudio, eu voltei nele porque ele plantou esse negócio aí. Só que esse outro que entrou, tá desmoralizando de outra coisa. Pessoal botando no lixo. Que ele mute esses caras que botam lixo aí. Sim. E tem muita gente da prefeitura que não faz nada, mesmo no meio da rua, pra fiscalizar esse lixo aí, que ninguém pode andar. Aí os carros ficam de bata gente. E que ele dê uma ciclovia legal pra gente. Certo. Viu? Eu ia perguntar o principal problema, mas o senhor já falou algumas coisas, né? Já disse, já. Eu vejo toda hora. Certo. O senhor tem medo de sofrer acidente? Ah, muito. Já bateu, já bateu. Tá aí, ó. Vixe. Eu parado no sinal, o cara... Por isso que eu não compro uma moto pra mim, porque tem que dirigir por mim e pelos outros. Pelos outros eu não tenho, aí de bicicleta tá eu. Parado no sinal, o cara veio na moto e me pegou. Aí vem pedir desculpa. Às vezes a gente não quer desculpar, a gente diz, não, é muito ignorante. Não é ignorante, é qualquer um. Eu vejo como é que é. Tá certo. Tudo. O senhor gostaria de trocar a bicicleta por outro meio de transporte? Não, de jeito nenhum. Certo. Eu mesmo comprando uma moto, jamais eu me despeço da minha... Minha companheira aqui. Que bom. É. Existe alguma rua em Fortaleza que o senhor gostaria que tivesse uma ciclofaixa? Ou alguma que tá ruim pra melhorar? Pronto, essa avenida aí tá horrível, velho. Essa ciclofaixa aí, a da Coronel Carvalho, não existe. Pegando aqui até a Barra, não existe jeito nenhum. Eu sei que tem gente pra fiscalizar. E outra coisa, muitos pessoal aqui, tanto os que levam, como quem manda botar. Esse lixo aí. Tá certo. É. Muito obrigada. Pronto, então aí. Foi pronto. Se ela me chamasse, eu era solo, vai.","Pessoa A: Qual o seu nome e sua idade, por favor? José Alberto da Silva, tenho 66 anos. Por que que você escolheu andar de bicicleta e faz quanto tempo? Rapaz, é minha vida, isso aqui é bicicleta. Eu tenho essa daqui e mais cinco. Eita! É, tudo monarca. Qual o principal problema? Opa, desculpa. Vai, pode falar. O Roberto Cláudio, eu voltei nele porque ele plantou esse negócio aí. Só que esse outro que entrou, tá desmoralizando de outra coisa. Pessoal botando no lixo. Que ele mute esses caras que botam lixo aí. Sim. E tem muita gente da prefeitura que não faz nada, mesmo no meio da rua, pra fiscalizar esse lixo aí, que ninguém pode andar. Aí os carros ficam de bata gente. E que ele dê uma ciclovia legal pra gente. Certo. Viu? Eu ia perguntar o principal problema, mas o senhor já falou algumas coisas, né? Já disse, já. Eu vejo toda hora. Certo. O senhor tem medo de sofrer acidente? Ah, muito. Já bateu, já bateu. Tá aí, ó. Vixe. Eu parado no sinal, o cara... Por isso que eu não compro uma moto pra mim, porque tem que dirigir por mim e pelos outros. Pelos outros eu não tenho, aí de bicicleta tá eu. Parado no sinal, o cara veio na moto e me pegou. Aí vem pedir desculpa. Às vezes a gente não quer desculpar, a gente diz, não, é muito ignorante. Não é ignorante, é qualquer um. Eu vejo como é que é. Tá certo. Tudo. O senhor gostaria de trocar a bicicleta por outro meio de transporte? Não, de jeito nenhum. Certo. Eu mesmo comprando uma moto, jamais eu me despeço da minha... Minha companheira aqui. Que bom. É. Existe alguma rua em Fortaleza que o senhor gostaria que tivesse uma ciclofaixa? Ou alguma que tá ruim pra melhorar? Pronto, essa avenida aí tá horrível, velho. Essa ciclofaixa aí, a da Coronel Carvalho, não existe. Pegando aqui até a Barra, não existe jeito nenhum. Eu sei que tem gente pra fiscalizar. E outra coisa, muitos pessoal aqui, tanto os que levam, como quem manda botar. Esse lixo aí. Tá certo. É. Muito obrigada. Pronto, então aí. Foi pronto. Se ela me chamasse, eu era solo, vai.",00000033-AUDIO-2025-10-30-11-50-11,José Alberto da Silva,66 anos,Masculino,"Rapaz, é minha vida, isso aqui é bicicleta.","Rapaz, é minha vida, isso aqui é bicicleta.","O principal problema é o lixo: ""Pessoal botando no lixo. Que ele mute esses caras que botam lixo aí. Sim. E tem muita gente da prefeitura que não faz nada, mesmo no meio da rua, pra fiscalizar esse lixo aí, que ninguém pode andar. Aí os carros ficam de bata gente. E que ele dê uma ciclovia legal pra gente."" Outro problema é a falta de segurança/acidentes: ""O senhor tem medo de sofrer acidente? Ah, muito. Já bateu, já bateu. Tá aí, ó. Vixe. Eu parado no sinal, o cara... Por isso que eu não compro uma moto pra mim, porque tem que dirigir por mim e pelos outros. Pelos outros eu não tenho, aí de bicicleta tá eu. Parado no sinal, o cara veio na moto e me pegou."" E a ciclovia ruim: ""Pronto, essa avenida aí tá horrível, velho. Essa ciclofaixa aí, a da Coronel Carvalho, não existe. Pegando aqui até a Barra, não existe jeito nenhum.""","O senhor tem medo de sofrer acidente? Ah, muito. Já bateu, já bateu. Tá aí, ó. Vixe. Eu parado no sinal, o cara... Por isso que eu não compro uma moto pra mim, porque tem que dirigir por mim e pelos outros. Pelos outros eu não tenho, aí de bicicleta tá eu. Parado no sinal, o cara veio na moto e me pegou.","Ah, muito. Já bateu, já bateu. Tá aí, ó. Vixe. Eu parado no sinal, o cara... Por isso que eu não compro uma moto pra mim, porque tem que dirigir por mim e pelos outros. Pelos outros eu não tenho, aí de bicicleta tá eu. Parado no sinal, o cara veio na moto e me pegou. Aí vem pedir desculpa.","O senhor gostaria de trocar a bicicleta por outro meio de transporte? Não, de jeito nenhum. Certo. Eu mesmo comprando uma moto, jamais eu me despeço da minha... Minha companheira aqui. Que bom.","Existe alguma rua em Fortaleza que o senhor gostaria que tivesse uma ciclofaixa? Ou alguma que tá ruim pra melhorar? Pronto, essa avenida aí tá horrível, velho. Essa ciclofaixa aí, a da Coronel Carvalho, não existe. Pegando aqui até a Barra, não existe jeito nenhum.",Preferência pessoal,Mais de 5 anos,Lixo na ciclovia; Risco de acidentes; Má qualidade das ciclovias,"Sim, tenho medo de acidentes",Sim,Não

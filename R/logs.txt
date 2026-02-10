@@ -1,5 +1,5 @@
 [1] "\nfile:\n"
-[1] "I:/.shortcut-targets-by-id/15QBAXOC5TdfNgOtQZh2jvqN37NjxkSM0/@BICI/06_Eixo Dados/Projetos/Papo de pedal/Edicao 071124/result/pesquisa_papo_pedal.rds"
+[1] "H:/.shortcut-targets-by-id/1SFnXbehJ9CbYev8R9EEg0SdkVsaJ9Deu/Mobifor/1. Transporte Ativo/@BICI/06_Eixo Dados/Projetos/Papo de pedal/Edicao 071124/result/pesquisa_papo_pedal.rds"
 <error/rlang_error>
 Error in `pull()`:
 Caused by error:
@@ -21,16 +21,17 @@ Backtrace:
  12. ├─stringr::str_split(., ";")
  13. │ └─stringr:::check_lengths(string, pattern)
  14. │   └─vctrs::vec_size_common(...)
- 15. ├─dplyr::pull(., por_que_escolheu_ou_escolhe_andar_de_bicicleta_agrupado)
- 16. └─dplyr:::pull.data.frame(., por_que_escolheu_ou_escolhe_andar_de_bicicleta_agrupado)
- 17.   └─tidyselect::vars_pull(names(.data), !!enquo(var))
- 18.     ├─tidyselect:::with_chained_errors(...)
- 19.     │ └─base::withCallingHandlers(...)
- 20.     └─rlang::eval_tidy(expr, set_names(seq_along(vars), vars))
+ 15. │     └─rlang::list2(...)
+ 16. ├─dplyr::pull(., por_que_escolheu_ou_escolhe_andar_de_bicicleta_agrupado)
+ 17. └─dplyr:::pull.data.frame(., por_que_escolheu_ou_escolhe_andar_de_bicicleta_agrupado)
+ 18.   └─tidyselect::vars_pull(names(.data), !!enquo(var))
+ 19.     ├─tidyselect:::with_chained_errors(...)
+ 20.     │ └─base::withCallingHandlers(...)
+ 21.     └─rlang::eval_tidy(expr, set_names(seq_along(vars), vars))
 [1] 2
 [1] "\n"
 [1] "\nfile:\n"
-[1] "I:/.shortcut-targets-by-id/15QBAXOC5TdfNgOtQZh2jvqN37NjxkSM0/@BICI/06_Eixo Dados/Projetos/Papo de pedal/Edicao 290224/result/pesquisa_papo_pedal.rds"
+[1] "H:/.shortcut-targets-by-id/1SFnXbehJ9CbYev8R9EEg0SdkVsaJ9Deu/Mobifor/1. Transporte Ativo/@BICI/06_Eixo Dados/Projetos/Papo de pedal/Edicao 290224/result/pesquisa_papo_pedal.rds"
 <error/rlang_error>
 Error in `pull()`:
 Caused by error:
@@ -52,11 +53,12 @@ Backtrace:
  12. ├─stringr::str_split(., ";")
  13. │ └─stringr:::check_lengths(string, pattern)
  14. │   └─vctrs::vec_size_common(...)
- 15. ├─dplyr::pull(., por_que_escolheu_ou_escolhe_andar_de_bicicleta_agrupado)
- 16. └─dplyr:::pull.data.frame(., por_que_escolheu_ou_escolhe_andar_de_bicicleta_agrupado)
- 17.   └─tidyselect::vars_pull(names(.data), !!enquo(var))
- 18.     ├─tidyselect:::with_chained_errors(...)
- 19.     │ └─base::withCallingHandlers(...)
- 20.     └─rlang::eval_tidy(expr, set_names(seq_along(vars), vars))
+ 15. │     └─rlang::list2(...)
+ 16. ├─dplyr::pull(., por_que_escolheu_ou_escolhe_andar_de_bicicleta_agrupado)
+ 17. └─dplyr:::pull.data.frame(., por_que_escolheu_ou_escolhe_andar_de_bicicleta_agrupado)
+ 18.   └─tidyselect::vars_pull(names(.data), !!enquo(var))
+ 19.     ├─tidyselect:::with_chained_errors(...)
+ 20.     │ └─base::withCallingHandlers(...)
+ 21.     └─rlang::eval_tidy(expr, set_names(seq_along(vars), vars))
 [1] 8
 [1] "\n"
